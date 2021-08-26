@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat5/felCat5.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat5/felCat5.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat5/felCat5.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat8/felCat8.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat8/felCat8.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat8/felCat8.fa.pac
+####### SIZE: 4856560 KB

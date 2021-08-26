@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/align/calJac3.rheMac2.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/calJac3/align/calJac3.ponAbe2.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/calJac3/align/calJac3.panTro2.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/calJac3/align/calJac3.hg19.net.axt.gz
+####### SIZE: 4663782 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bwa_index/bosTauMd3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bwa_index/bosTauMd3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/liftOver/bosTauMd3ToBosTau4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/cs/bosTauMd3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/cs/bosTauMd3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/cs/bosTauMd3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/cs/bosTauMd3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/cs/bosTauMd3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/cs/bosTauMd3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index/bosTauMd3.3.ebwt
+####### SIZE: 4746051 KB

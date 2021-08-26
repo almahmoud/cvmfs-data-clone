@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bwa_index/otoGar1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bwa_index/otoGar1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bwa_index/otoGar1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bwa_index/otoGar1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bwa_index/otoGar1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bowtie_index/cs/otoGar1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bowtie_index/cs/otoGar1.2.ebwt
+####### SIZE: 4839164 KB

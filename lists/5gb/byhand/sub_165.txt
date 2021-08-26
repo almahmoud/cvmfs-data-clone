@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToFelCat3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToMacEug1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToPteVam1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToAilMel1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToEquCab2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToCavPor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToTupBel1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToOtoGar1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToEchTel1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToLoxAfr3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToTurTru1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToFelCat4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/mosaik_jump/hg19_meta.jmp
+####### SIZE: 3386132 KB

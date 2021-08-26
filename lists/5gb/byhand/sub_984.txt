@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/seq/nomLeu1.2bit
+####### SIZE: 4575713 KB

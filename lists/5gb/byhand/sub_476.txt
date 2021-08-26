@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/sam_index/IscaW1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/seq/IscaW1.2bit
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/seq/IscaW1.fa
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/srma_index/IscaW1.dict
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/bwa_index/IscaW1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/bwa_index/IscaW1.fa.ann
+####### SIZE: 4879492 KB

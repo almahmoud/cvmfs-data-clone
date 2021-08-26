@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/rheMac2/panTro3.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie2_index/panTro3full.3.bt2
+####### SIZE: 4768517 KB

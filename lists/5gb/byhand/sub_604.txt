@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bwa_index/Sscrofa9.58.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/Sscrofa9.58.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/Sscrofa9.58.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/Sscrofa9.58.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/Sscrofa9.58.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/Sscrofa9.58.1.ebwt
+####### SIZE: 4897625 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie_index/bosTau2.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie_index/bosTau2.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/equCab2/perm_index/equCab2_chrM_color_F2_50.index
+/cvmfs/data.galaxyproject.org/byhand/equCab2/perm_index/equCab2_chrM_color_F4_50.index
+/cvmfs/data.galaxyproject.org/byhand/equCab2/perm_index/equCab2_chrM_base_F4_50.index
+/cvmfs/data.galaxyproject.org/byhand/equCab2/perm_index/equCab2_chrM_color_F3_50.index
+/cvmfs/data.galaxyproject.org/byhand/equCab2/perm_index/equCab2_chrM_base_F2_50.index
+/cvmfs/data.galaxyproject.org/byhand/equCab2/perm_index/equCab2_chrM_base_F3_50.index
+####### SIZE: 3171687 KB

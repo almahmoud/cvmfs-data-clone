@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie2_index/mm10.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm10/seq/mm10.2bit
+/cvmfs/data.galaxyproject.org/byhand/mm10/seq/mm10.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.7.10-r789/mm10.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.7.10-r789/mm10.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.7.10-r789/mm10.fa.pac
+####### SIZE: 4952611 KB

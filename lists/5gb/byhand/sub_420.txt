@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr29.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr17.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr31.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr9.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr12.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr21.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr15.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr7.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr22.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr4.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr13.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chrX.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr3.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr1.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr2.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr5.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/seq/canFam1.2bit
+/cvmfs/data.galaxyproject.org/byhand/canFam1/seq/canFam1.fa
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bwa_index/canFam1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bwa_index/canFam1.fa.amb
+####### SIZE: 4989109 KB

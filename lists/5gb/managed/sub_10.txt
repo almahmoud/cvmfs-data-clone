@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.1.ht2
+####### SIZE: 4861095 KB

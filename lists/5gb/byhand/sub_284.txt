@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHR22.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHR13.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHR14.sqlite
+####### SIZE: 3940642 KB

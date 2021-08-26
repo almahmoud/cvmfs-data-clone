@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/loxAfr3/loxAfr3.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3canon/galGal3canon.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3canon/galGal3canon.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3canon/galGal3canon.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3canon/galGal3canon.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3canon/galGal3canon.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal4/galGal4.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal4/galGal4.fa.ann
+####### SIZE: 4887146 KB

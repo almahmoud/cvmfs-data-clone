@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/managed/bin/parse_builds_3_sites.py
+/cvmfs/data.galaxyproject.org/managed/bin/parse_builds.py
+/cvmfs/data.galaxyproject.org/managed/bin/build_chrom_db.py
+/cvmfs/data.galaxyproject.org/managed/bin/add_manual_builds.py
+/cvmfs/data.galaxyproject.org/managed/bin/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/bin/ucsc_regenerate_dbkeys.sh
+/cvmfs/data.galaxyproject.org/managed/bin/parse_builds.pyc
+/cvmfs/data.galaxyproject.org/managed/bin/ucsc_update.sh
+/cvmfs/data.galaxyproject.org/managed/bin/managed.py
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac2/vicPac2.1.ht2
+####### SIZE: 2129216 KB

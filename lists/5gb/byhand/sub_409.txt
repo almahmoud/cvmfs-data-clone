@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/quality_scores/tmp/qual.wig
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/quality_scores/qual.wib
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/seq/anoCar1.2bit
+####### SIZE: 3980543 KB

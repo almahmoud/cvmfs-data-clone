@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/cs/galGal3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/cs/galGal3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/galGal3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/galGal3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/galGal3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/galGal3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/galGal3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/galGal3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/felCat5/sam_index/felCat5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/felCat5/picard_index/felCat5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/felCat5/picard_index/felCat5.dict
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie2_index/felCat5.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie2_index/felCat5.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie2_index/felCat5.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie2_index/felCat5.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie2_index/felCat5.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie2_index/felCat5.rev.1.bt2
+####### SIZE: 4980717 KB

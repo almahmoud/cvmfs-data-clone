@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/cs/bosTau5.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/Saccharomyces_cerevisiae_S288C_SGD2010/seq/Saccharomyces_cerevisiae_S288C_SGD2010.2bit
+/cvmfs/data.galaxyproject.org/byhand/Saccharomyces_cerevisiae_S288C_SGD2010/DEPRECATED_USE_sacCer3_INSTEAD
+/cvmfs/data.galaxyproject.org/byhand/Saccharomyces_cerevisiae_S288C_SGD2010/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/sam_index/bosTau6.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/picard_index/bosTau6.dict
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bowtie2_index/bosTau6.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bowtie2_index/bosTau6.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bowtie2_index/bosTau6.4.bt2
+####### SIZE: 4936835 KB

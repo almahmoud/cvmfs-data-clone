@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/mosaik_jump/hg19.dat
+/cvmfs/data.galaxyproject.org/byhand/hg19/mosaik_jump/hg19_keys.jmp
+/cvmfs/data.galaxyproject.org/byhand/hg19/mosaik_jump/hg19_positions.jmp
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/make_h_sapiens_asm_37.sh
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_Supp.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHRY.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/bins.list
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR18.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR13.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR14.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR8.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR15.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/TRANSCRIPT_DB.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR4.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR22.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR5.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR21.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR12.sqlite
+####### SIZE: 48126595 KB

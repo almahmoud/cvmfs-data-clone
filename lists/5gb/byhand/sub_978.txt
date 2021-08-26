@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu3/seq/nomLeu3.2bit
+/cvmfs/data.galaxyproject.org/byhand/nomLeu3/seq/nomLeu3.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.sa
+####### SIZE: 4397504 KB

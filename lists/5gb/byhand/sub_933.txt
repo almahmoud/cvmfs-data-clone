@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/cs/panTro3canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/panTro3canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/panTro3canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/panTro3canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/panTro3canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/panTro3canon.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3canon/bowtie_index/panTro3canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToPanTro4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToDanRer7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToGalGal3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToPonAbe2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToGorGor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToCalJac3.over.chain
+####### SIZE: 4995881 KB

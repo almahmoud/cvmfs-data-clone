@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/seq/rn3.fa
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.rpac
+####### SIZE: 4913709 KB

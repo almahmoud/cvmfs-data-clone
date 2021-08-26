@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/db/blast/orthofinder
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/37Gv1.0.singleCopy.config
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr21.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr19.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chrY.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr9.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr11.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr2.maf.index
+####### SIZE: 3052331 KB

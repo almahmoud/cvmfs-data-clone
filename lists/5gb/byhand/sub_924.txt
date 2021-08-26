@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/rheMac2/maf/panTro3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/rheMac2/maf/panTro3.maf
+####### SIZE: 4819279 KB

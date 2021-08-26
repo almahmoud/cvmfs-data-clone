@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/liftOver/saiBol1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/cs/saiBol1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/cs/saiBol1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/cs/saiBol1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/cs/saiBol1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/cs/saiBol1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/cs/saiBol1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.3.ebwt
+####### SIZE: 4717741 KB

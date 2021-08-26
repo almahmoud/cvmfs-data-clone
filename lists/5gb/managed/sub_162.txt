@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/db/hmm/gfam.h3m
+####### SIZE: 3837812 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR2.sqlite
+####### SIZE: 8809735 KB

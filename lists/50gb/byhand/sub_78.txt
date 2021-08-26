@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.120.nhr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.47.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.145.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.144.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.54.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.28.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.12.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.104.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.27.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.132.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.130.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.62.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.172.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.161.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.143.nsq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.127.nsq
+####### SIZE: 14614641 KB

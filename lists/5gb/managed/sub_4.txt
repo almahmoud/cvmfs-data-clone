@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.6.ht2
+####### SIZE: 4516537 KB

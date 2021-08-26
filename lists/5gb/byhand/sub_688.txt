@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/liftOver/chrPic1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/liftOver/chrPic1ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/cs/chrPic1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/cs/chrPic1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/cs/chrPic1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/cs/chrPic1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/cs/chrPic1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/cs/chrPic1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/chrPic1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/chrPic1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie_index/chrPic1.2.ebwt
+####### SIZE: 4771509 KB

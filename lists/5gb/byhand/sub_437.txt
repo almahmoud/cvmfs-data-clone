@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/cs/loxAfr3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/cs/loxAfr3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/cs/loxAfr3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/cs/loxAfr3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/cs/loxAfr3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/loxAfr3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/loxAfr3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/loxAfr3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/loxAfr3.4.ebwt
+####### SIZE: 4797035 KB

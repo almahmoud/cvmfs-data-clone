@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToMm8.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToBosTau1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToMm5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToBosTau2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToRn3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/sam_index/melUnd1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/picard_index/melUnd1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/picard_index/melUnd1.dict
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/seq/melUnd1.2bit
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/seq/melUnd1.fa
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/liftOver/melUnd1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/liftOver/melUnd1ToGeoFor1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bowtie_index/cs/melUnd1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bowtie_index/cs/melUnd1.rev.2.ebwt
+####### SIZE: 4917596 KB

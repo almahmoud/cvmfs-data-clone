@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papHam1/papHam1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/gadMor1/gadMor1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/gadMor1/gadMor1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/gadMor1/gadMor1.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/gadMor1/gadMor1.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/gadMor1/gadMor1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3/bosTauMd3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3/bosTauMd3.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3/bosTauMd3.fa.pac
+####### SIZE: 4877849 KB

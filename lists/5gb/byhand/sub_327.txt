@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/quality_scores/tupBel1.quals.fa
+####### SIZE: 10907203 KB

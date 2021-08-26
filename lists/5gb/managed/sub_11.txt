@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar3/otoGar3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar3/otoGar3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar3/otoGar3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar3/otoGar3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar3/otoGar3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar3/otoGar3.6.ht2
+####### SIZE: 4942946 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/musFur1/musFur1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.sa
+####### SIZE: 4621625 KB

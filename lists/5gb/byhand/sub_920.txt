@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/calJac3/panTro3.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/danRer7/maf/panTro3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/danRer7/maf/panTro3.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/danRer7/panTro3.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/galGal3/maf/panTro3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/galGal3/maf/panTro3.maf
+####### SIZE: 4869539 KB

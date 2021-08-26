@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/seq/bosTau8.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/musFur1.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/cerSim1.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/vicPac1.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/felCat8.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/rn6.2bit
+####### SIZE: 4109853 KB

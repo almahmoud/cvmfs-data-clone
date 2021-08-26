@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToRn5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/cs/rheMac3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/cs/rheMac3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/cs/rheMac3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/cs/rheMac3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/cs/rheMac3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/cs/rheMac3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/rheMac3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/rheMac3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/rheMac3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie_index/rheMac3.4.ebwt
+####### SIZE: 4494009 KB

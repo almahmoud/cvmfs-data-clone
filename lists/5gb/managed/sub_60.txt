@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac2/vicPac2.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac2/vicPac2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac2/vicPac2.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac2/vicPac2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2/sacCer2.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2/sacCer2.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2/sacCer2.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2/sacCer2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2/sacCer2.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2/sacCer2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3full/galGal3full.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3full/galGal3full.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3full/galGal3full.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3full/galGal3full.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3full/galGal3full.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3full/galGal3full.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac3/rheMac3.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac3/rheMac3.2.bt2
+####### SIZE: 4522699 KB

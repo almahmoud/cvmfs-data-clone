@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie2_index/papHam1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie2_index/papHam1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/papHam1/seq/papHam1.2bit
+####### SIZE: 2573408 KB

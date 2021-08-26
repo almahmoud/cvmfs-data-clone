@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/sam_index/dipOrd1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/picard_index/dipOrd1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/picard_index/dipOrd1.dict
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.rev.1.bt2
+####### SIZE: 4589731 KB

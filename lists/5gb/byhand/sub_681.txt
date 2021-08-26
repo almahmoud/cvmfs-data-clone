@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bowtie_index/caeJap2.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bowtie_index/caeJap2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bowtie_index/caeJap2.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bowtie_index/caeJap2.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/canFam3/sam_index/canFam3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/canFam3/picard_index/canFam3.dict
+/cvmfs/data.galaxyproject.org/byhand/canFam3/picard_index/canFam3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie2_index/canFam3.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie2_index/canFam3.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie2_index/canFam3.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie2_index/canFam3.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie2_index/canFam3.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie2_index/canFam3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/canFam3/seq/canFam3.2bit
+####### SIZE: 4050803 KB

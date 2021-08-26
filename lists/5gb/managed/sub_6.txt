@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.1.ht2
+####### SIZE: 3920867 KB

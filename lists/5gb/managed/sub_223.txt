@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/SAindex
+####### SIZE: 4533951 KB

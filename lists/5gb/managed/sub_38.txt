@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.4.ht2
+####### SIZE: 4459092 KB

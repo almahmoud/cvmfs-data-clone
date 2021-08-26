@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/papHam1/seq/papHam1.fa
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.rpac
+####### SIZE: 4982773 KB

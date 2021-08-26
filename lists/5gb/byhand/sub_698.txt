@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/cs/monDom1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/cs/monDom1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/cs/monDom1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/cs/monDom1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.4.ebwt
+####### SIZE: 4945033 KB

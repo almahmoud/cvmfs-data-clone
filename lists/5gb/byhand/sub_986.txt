@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bwa_index/nomLeu1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bwa_index/nomLeu1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bwa_index/nomLeu1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/liftOver/nomLeu1ToNomLeu2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/liftOver/nomLeu1ToGorGor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/liftOver/nomLeu1ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/liftOver/nomLeu1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.rev.1.ebwt
+####### SIZE: 4685620 KB

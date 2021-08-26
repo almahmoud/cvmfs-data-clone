@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/quality_scores/otoGar1.quals.fa
+####### SIZE: 10189509 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/papAnu2.fa
+####### SIZE: 2937729 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/seq/cavPor3.2bit
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/seq/cavPor3.fa
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bwa_index/cavPor3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bwa_index/cavPor3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bwa_index/cavPor3.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bwa_index/cavPor3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bwa_index/cavPor3.fa.pac
+####### SIZE: 4735546 KB

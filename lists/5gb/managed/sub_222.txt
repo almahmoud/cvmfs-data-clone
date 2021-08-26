@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/chrStart.txt
+####### SIZE: 4952193 KB

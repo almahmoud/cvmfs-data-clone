@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/seq/Homo_sapiens_AK1.fa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bwa_index/Homo_sapiens_AK1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bwa_index/Homo_sapiens_AK1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bwa_index/Homo_sapiens_AK1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bwa_index/Homo_sapiens_AK1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bwa_index/Homo_sapiens_AK1.fa.rpac
+####### SIZE: 4631416 KB

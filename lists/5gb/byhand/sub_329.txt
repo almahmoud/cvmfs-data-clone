@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/seq/tupBel1.fa
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.rsa
+####### SIZE: 4562519 KB

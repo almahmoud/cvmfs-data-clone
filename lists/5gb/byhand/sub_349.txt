@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bowtie_index/droPer1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/droPer1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/choHof1/sam_index/choHof1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/choHof1/picard_index/choHof1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/choHof1/picard_index/choHof1.dict
+/cvmfs/data.galaxyproject.org/byhand/choHof1/seq/choHof1.2bit
+/cvmfs/data.galaxyproject.org/byhand/choHof1/seq/choHof1.fa
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa.rpac
+####### SIZE: 4479902 KB

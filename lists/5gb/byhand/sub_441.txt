@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToRn5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToFelCat4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/liftOver/ailMel1ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie_index/cs/ailMel1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie_index/cs/ailMel1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie_index/cs/ailMel1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie_index/cs/ailMel1.4.ebwt
+####### SIZE: 4772515 KB

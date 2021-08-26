@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bowtie2_index/turTru2.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bowtie2_index/turTru2.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bowtie2_index/turTru2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/turTru2/seq/turTru2.2bit
+####### SIZE: 2778446 KB

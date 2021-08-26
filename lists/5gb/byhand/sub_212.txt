@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr2.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr3.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr5.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr1.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/picard_index/chr21.dict
+/cvmfs/data.galaxyproject.org/byhand/hg18/picard_index/hg18.dict
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.rsa
+####### SIZE: 4799384 KB

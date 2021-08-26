@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/seq/monDom4.2bit
+/cvmfs/data.galaxyproject.org/byhand/monDom4/seq/monDom4.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bwa_index/monDom4.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bwa_index/monDom4.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bwa_index/monDom4.fa.sa
+####### SIZE: 4960977 KB

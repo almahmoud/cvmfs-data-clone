@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.pto
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/taxdb.btd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.32.phi
+####### SIZE: 2240978 KB

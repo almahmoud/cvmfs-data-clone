@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/hg19/panTro3.axt
+####### SIZE: 5466961 KB

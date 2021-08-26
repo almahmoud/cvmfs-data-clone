@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToHg38.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToPonAbe2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToPanTro4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToGorGor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToCalJac3.over.chain
+####### SIZE: 4824464 KB

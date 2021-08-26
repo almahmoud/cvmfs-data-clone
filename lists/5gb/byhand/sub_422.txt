@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/cs/canFam1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/cs/canFam1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/cs/canFam1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/canFam1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/canFam1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/canFam1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/canFam1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/canFam1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bowtie_index/canFam1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16/mm10.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16/mm10.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16/mm10.fa.sa
+####### SIZE: 4715227 KB

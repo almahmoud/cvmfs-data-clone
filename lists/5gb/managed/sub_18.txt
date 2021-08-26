@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.1.ht2
+####### SIZE: 3857661 KB

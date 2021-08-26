@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/seq/rn4canon.fa
+####### SIZE: 2783804 KB

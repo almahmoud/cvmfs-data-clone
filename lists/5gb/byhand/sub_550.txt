@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/eriEur1.quals.fa
+####### SIZE: 10037329 KB

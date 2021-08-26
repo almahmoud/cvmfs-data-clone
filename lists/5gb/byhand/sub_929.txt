@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/panTro3full.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/seq/panTro3.2bit
+/cvmfs/data.galaxyproject.org/byhand/panTro3/seq/panTro3canon.fa
+####### SIZE: 4790169 KB

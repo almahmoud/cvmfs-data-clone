@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab2/equCab2.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab2/equCab2.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab2/equCab2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.1.bt2
+####### SIZE: 4693035 KB

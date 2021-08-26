@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/seq/dasNov3.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/gadMor1.fa
+/cvmfs/data.galaxyproject.org/managed/seq/papAnu2.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/panPan1.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/nomLeu3.2bit
+/cvmfs/data.galaxyproject.org/managed/seq/bosTau7.2bit
+####### SIZE: 4938609 KB

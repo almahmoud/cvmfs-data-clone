@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/seq/monDom1.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bwa_index/monDom1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bwa_index/monDom1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bwa_index/monDom1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bwa_index/monDom1.fa.sa
+####### SIZE: 4421813 KB

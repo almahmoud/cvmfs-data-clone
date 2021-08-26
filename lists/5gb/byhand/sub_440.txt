@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/seq/ailMel1.2bit
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/seq/ailMel1.fa
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.rpac
+####### SIZE: 4748402 KB

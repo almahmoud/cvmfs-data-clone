@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bowtie2_index/borEut13.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bowtie2_index/borEut13.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.21.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.17.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.14.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.22.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.18.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.20.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.19.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.15.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.9.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.2.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.10.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.23.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.13.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.3.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.11.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.12.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.7.maf
+####### SIZE: 47512589 KB

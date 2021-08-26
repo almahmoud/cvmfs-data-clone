@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr3/susScr3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/apiMel4/apiMel4.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/apiMel4/apiMel4.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/apiMel4/apiMel4.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/apiMel4/apiMel4.6.ht2
+####### SIZE: 4990189 KB

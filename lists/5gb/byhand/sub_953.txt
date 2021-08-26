@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bowtie2_index/hg38female.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bowtie2_index/hg38female.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bowtie2_index/hg38female.4.bt2
+####### SIZE: 4381536 KB

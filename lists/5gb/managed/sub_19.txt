@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau7/bosTau7.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.3.ht2
+####### SIZE: 4666461 KB

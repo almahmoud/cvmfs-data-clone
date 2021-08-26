@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/seq/tarSyr1.fa
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bwa_index/tarSyr1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bwa_index/tarSyr1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bwa_index/tarSyr1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bwa_index/tarSyr1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bwa_index/tarSyr1.fa.rpac
+####### SIZE: 4767667 KB

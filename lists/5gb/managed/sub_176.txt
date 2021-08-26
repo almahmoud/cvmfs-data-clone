@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/db/hmm/orthofinder.h3p
+####### SIZE: 2022416 KB

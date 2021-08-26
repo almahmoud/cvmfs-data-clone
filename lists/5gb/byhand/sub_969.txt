@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bwa_index/rn4canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/rn4canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/rn4canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/rn4canon.2.ebwt
+####### SIZE: 4328125 KB

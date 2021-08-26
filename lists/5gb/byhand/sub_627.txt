@@ -1,0 +1,27 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/seq/mm7full.fa
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToXenTro1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToMm6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToFr1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToTetNig1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToMm5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToDanRer3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToMm8.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToGalGal2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToEchTel1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToBosTau2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToRn3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToPanTro1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToRheMac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm7/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/sam_index/anoGam1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/download/2011-06-30_README_anoGam1
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/download/2014-03-18_09.55.17_-0400_anoGam1.log
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/nib/chrM.nib
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/nib/chrX.nib
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/nib/chr3L.nib
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/nib/chr3R.nib
+####### SIZE: 4974767 KB

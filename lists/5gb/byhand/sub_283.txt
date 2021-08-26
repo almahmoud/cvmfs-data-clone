@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr6.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr5.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr4.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr10.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr7.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr11.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr12.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chrX.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr1.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr8.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr2.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr3.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/README
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/bins.list
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_Supp.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHRY.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/TRANSCRIPT_DB.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHR18.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHR21.sqlite
+####### SIZE: 4409349 KB

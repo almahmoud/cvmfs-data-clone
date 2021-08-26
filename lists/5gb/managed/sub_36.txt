@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/melUnd1/melUnd1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.1.ht2
+####### SIZE: 3451786 KB

@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/tupBel1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/tupBel1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/tupBel1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/tupBel1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/tupBel1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/tupBel1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/.cvmfscatalog
+####### SIZE: 4550559 KB

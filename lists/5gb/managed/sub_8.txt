@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.1.ht2
+####### SIZE: 4459147 KB

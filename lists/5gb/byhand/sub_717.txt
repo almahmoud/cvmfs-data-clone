@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor2/seq/cavPor2.fa
+/cvmfs/data.galaxyproject.org/byhand/cavPor2/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/turTru2/sam_index/turTru2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/turTru2/picard_index/turTru2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/turTru2/picard_index/turTru2.dict
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bowtie2_index/turTru2.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bowtie2_index/turTru2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bowtie2_index/turTru2.2.bt2
+####### SIZE: 4585046 KB

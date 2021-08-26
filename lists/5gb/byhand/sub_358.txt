@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/quality_scores/oryCun1.quals.fa
+####### SIZE: 10322369 KB

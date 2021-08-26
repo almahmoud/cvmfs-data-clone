@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/seq/anoCar1.fa
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToGasAcu1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToXenTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToAnoCar2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToMm8.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToGalGal3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToOrnAna1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/cs/anoCar1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/cs/anoCar1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/cs/anoCar1.2.ebwt
+####### SIZE: 4980626 KB

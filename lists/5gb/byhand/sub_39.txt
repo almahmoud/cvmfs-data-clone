@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr7.maf.lzo
+####### SIZE: 4731284 KB

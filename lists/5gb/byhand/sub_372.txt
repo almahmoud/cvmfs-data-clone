@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/liftOver/sorAra1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/sorAra1.3.ebwt
+####### SIZE: 4901158 KB

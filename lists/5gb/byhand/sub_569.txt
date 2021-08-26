@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.nt.pac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/mm9full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/mm9full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/mm9full.fa.rsa
+####### SIZE: 4991054 KB

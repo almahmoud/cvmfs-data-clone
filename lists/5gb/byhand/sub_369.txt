@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/quality_scores/sorAra1.quals.fa
+####### SIZE: 8749641 KB

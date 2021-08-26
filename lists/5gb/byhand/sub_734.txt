@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie2_index/tarSyr1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie2_index/tarSyr1.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie2_index/tarSyr1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie2_index/tarSyr1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/seq/tarSyr1.2bit
+####### SIZE: 4053167 KB

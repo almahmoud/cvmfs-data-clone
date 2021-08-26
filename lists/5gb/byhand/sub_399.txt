@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/otoGar3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/otoGar3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/otoGar3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/otoGar3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/sam_index/xenTro1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/picard_index/xenTro1.dict
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/picard_index/xenTro1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/seq/xenTro1.2bit
+####### SIZE: 4536080 KB

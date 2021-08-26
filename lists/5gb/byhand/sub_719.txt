@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/turTru2/seq/turTru2.fa
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bwa_index/turTru2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bwa_index/turTru2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bwa_index/turTru2.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bwa_index/turTru2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bwa_index/turTru2.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/turTru2/bwa_index/turTru2.fa.pac
+####### SIZE: 4428759 KB

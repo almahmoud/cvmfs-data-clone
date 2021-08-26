@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/cs/ornAna1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/cs/ornAna1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/cs/ornAna1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/cs/ornAna1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/LEN
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk.info
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/sam_index/loxAfr1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/picard_index/loxAfr1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/picard_index/loxAfr1.dict
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie2_index/loxAfr1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie2_index/loxAfr1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie2_index/loxAfr1.2.bt2
+####### SIZE: 4863588 KB

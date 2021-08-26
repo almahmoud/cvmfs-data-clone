@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.4.ht2
+####### SIZE: 4827004 KB

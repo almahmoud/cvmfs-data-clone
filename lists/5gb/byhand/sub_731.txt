@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/seq/equCab1.2bit
+/cvmfs/data.galaxyproject.org/byhand/equCab1/seq/equCab1.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab1/srma_index/equCab1.dict
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.pac
+####### SIZE: 4883820 KB

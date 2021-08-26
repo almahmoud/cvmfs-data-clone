@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/seq/hetGla2.fa
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bwa_index/hetGla2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bwa_index/hetGla2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bwa_index/hetGla2.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bwa_index/hetGla2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bwa_index/hetGla2.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bwa_index/hetGla2.fa.rpac
+####### SIZE: 4527691 KB

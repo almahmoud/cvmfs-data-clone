@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/cs/Homo_sapiens_AK1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/cs/Homo_sapiens_AK1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/Homo_sapiens_AK1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/Homo_sapiens_AK1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/Homo_sapiens_AK1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/Homo_sapiens_AK1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/Homo_sapiens_AK1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bowtie_index/Homo_sapiens_AK1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/strPur3/sam_index/strPur3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/strPur3/download/20110307_README_strPur3
+/cvmfs/data.galaxyproject.org/byhand/strPur3/seq/strPur3.2bit
+####### SIZE: 4934321 KB

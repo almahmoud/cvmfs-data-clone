@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/seq/loxAfr1.fa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bwa_index/loxAfr1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bwa_index/loxAfr1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bwa_index/loxAfr1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bwa_index/loxAfr1.fa.sa
+####### SIZE: 4623171 KB

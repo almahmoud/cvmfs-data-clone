@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/seq/monDom5.2bit
+/cvmfs/data.galaxyproject.org/byhand/monDom5/seq/monDom5.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.rsa
+####### SIZE: 4961665 KB

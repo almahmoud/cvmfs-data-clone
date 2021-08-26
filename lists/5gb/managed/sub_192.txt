@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr3.maf
+####### SIZE: 11058698 KB

@@ -1,0 +1,67 @@
+nameOverride: ""
+fullnameOverride: ""
+
+configs:
+  swift_upload.py: |
+    #!/usr/bin/env python3
+
+    import sys
+    import argparse
+
+    from cloudbridge.factory import CloudProviderFactory
+    from cloudbridge.factory import ProviderList
+
+    provider = CloudProviderFactory().create_provider(ProviderList.OPENSTACK, {})
+
+    def main(arguments):
+
+        parser = argparse.ArgumentParser(
+            description=__doc__,
+            formatter_class=argparse.RawDescriptionHelpFormatter)
+        parser.add_argument('filepath', help="File to upload", type=str)
+        parser.add_argument('destination', help="Destination in bucket", type=str)
+        parser.add_argument('-b', '--bucket', help="Name of destination bucket", type=str)
+
+        args = parser.parse_args(arguments)
+
+      bucket = provider.storage.buckets.get(args.bucket)
+      ob = bucket.objects.create(args.destination)
+
+      uploaded = false
+
+        while not uploaded:
+          uploaded = ob.upload_from_file(args.filepath)
+
+    if __name__ == '__main__':
+        sys.exit(main(sys.argv[1:]))
+
+  separate_blocks.sh: |
+    #!/bin/bash
+    directory=${1:-testdir}
+    sizelimit=${2:-1000} # in KB
+    outdir=${3:-separated}
+    sizesofar=0
+    dircount=1
+    touch "$outdir/sub_$dircount.txt"
+    find "$directory" -type f -exec du -a --block-size=1K {} + | while read -r size file
+    do
+      if ((sizesofar + size > sizelimit))
+      then
+        echo "Done with chunk $dircount with size $sizesofar KB"
+        echo "####### SIZE: $sizesofar KB" >> "$outdir/sub_$dircount.txt"
+        (( dircount++ ))
+        sizesofar=0
+        touch "$outdir/sub_$dircount.txt"
+      fi
+      (( sizesofar += size ))
+      echo "$file" >> "$outdir/sub_$dircount.txt"
+    done
+
+  link.sh: |
+    #!/bin/bash
+    mkdir -p $2$(dirname "$1") && ln -s "$1" "$2$1"
+
+cloneJob:
+  image: google/cloud-sdk:alpine
+  command: gcloud auth activate-service-account --key-file=/mnt/configs/sa_key.json && grep "/cvmfs" /mnt/configs/list.txt | xargs -I@ bash /mnt/configs/link.sh @ /mnt && gsutil -m rsync -r /mnt/cvmfs/data.galaxyproject.org gs://data-cvmfs/
+  extraEnv: []

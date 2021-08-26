@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie2_index/monDom4.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie2_index/monDom4.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie2_index/monDom4.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom4/quality_scores/chr1.qa.bqv
+####### SIZE: 3167481 KB

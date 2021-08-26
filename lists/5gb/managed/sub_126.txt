@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gimap.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/division.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/taxdump.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/merged.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gimap.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gencode.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/taxdump.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gc.prt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/readme.txt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/delnodes.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/citations.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/taxdump.tar.gz
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/nodes.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/names.dmp
+####### SIZE: 240955 KB

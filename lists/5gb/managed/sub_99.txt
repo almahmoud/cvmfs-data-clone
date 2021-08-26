@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTau8/bosTau8.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTau8/bosTau8.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam2/canFam2.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam2/canFam2.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam2/canFam2.fa.pac
+####### SIZE: 4529859 KB

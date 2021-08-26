@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bwa_index/otoGar3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bwa_index/otoGar3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/liftOver/otoGar3ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs/otoGar3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs/otoGar3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs/otoGar3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs/otoGar3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs/otoGar3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs/otoGar3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/otoGar3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/otoGar3.2.ebwt
+####### SIZE: 4809253 KB

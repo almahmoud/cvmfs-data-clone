@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn6/dataset_952368_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn6/dataset_952368_files/Genome
+####### SIZE: 4551767 KB

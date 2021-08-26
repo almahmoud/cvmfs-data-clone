@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bwa_index_v0.5.9-r16/mm9female.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bwa_index_v0.5.9-r16/mm9female.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bwa_index_v0.5.9-r16/mm9female.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bwa_index_v0.5.9-r16/mm9female.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bowtie2_index/mm9female.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bowtie2_index/mm9female.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bowtie2_index/mm9female.rev.2.bt2
+####### SIZE: 4469416 KB

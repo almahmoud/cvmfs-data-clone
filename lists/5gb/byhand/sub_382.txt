@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat3/quality_scores/felCat3.quals.fa
+####### SIZE: 9500666 KB

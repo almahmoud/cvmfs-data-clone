@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rn4/chr3.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rn4/chr5.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rn4/chr1.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rn4/chr2.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bowtie2_index/mm9canon.3.bt2
+####### SIZE: 4906601 KB

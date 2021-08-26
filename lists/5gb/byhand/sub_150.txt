@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/seq/hg19full.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/seq/chrX.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/hg19canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.nt.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.nt.pac
+####### SIZE: 4791162 KB

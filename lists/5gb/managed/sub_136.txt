@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm6/dataset_945341_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm6/dataset_945341_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_943934_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_943934_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_943934_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_943934_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_943934_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_943934_files/Genome
+####### SIZE: 4485958 KB

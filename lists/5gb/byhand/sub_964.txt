@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie2_index/bosTauMd3.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie2_index/bosTauMd3.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie2_index/bosTauMd3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie2_index/bosTauMd3.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/seq/bosTauMd3.2bit
+####### SIZE: 3699799 KB

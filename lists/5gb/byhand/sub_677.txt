@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/seq/panTro2full.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToDanRer4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToPanTro1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToGalGal2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToMonDom4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToPonAbe2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToCalJac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro2/liftOver/panTro2ToMm8.over.chain
+####### SIZE: 4935506 KB

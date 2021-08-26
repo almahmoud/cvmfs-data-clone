@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr3/loxAfr3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon/galGal3canon.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon/galGal3canon.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon/galGal3canon.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon/galGal3canon.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon/galGal3canon.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon/galGal3canon.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal4/galGal4.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal4/galGal4.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal4/galGal4.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal4/galGal4.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal4/galGal4.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal4/galGal4.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.4.bt2
+####### SIZE: 4665805 KB

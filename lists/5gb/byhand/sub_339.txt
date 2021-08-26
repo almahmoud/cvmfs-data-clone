@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/seq/xenTro3.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bwa_index/xenTro3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToGalGal3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToAnoCar2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToMelGal1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToDanRer7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie_index/cs/xenTro3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie_index/cs/xenTro3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie_index/cs/xenTro3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie_index/cs/xenTro3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie_index/cs/xenTro3.rev.1.ebwt
+####### SIZE: 4943823 KB

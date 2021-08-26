@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papAnu2/papAnu2.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papAnu2/papAnu2.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/panPan1/panPan1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/panPan1/panPan1.fa.amb
+####### SIZE: 4321700 KB

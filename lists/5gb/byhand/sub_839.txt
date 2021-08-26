@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.19.psq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.17.ppi
+####### SIZE: 3143238 KB

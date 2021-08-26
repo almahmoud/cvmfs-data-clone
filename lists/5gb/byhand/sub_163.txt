@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/cs/hg19female.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/cs/hg19female.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/hg19female.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/hg19female.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/hg19female.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/hg19female.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/hg19female.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie_index/hg19female.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToRheMac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToCalJac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToDanRer5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToFr2.over.chain
+####### SIZE: 4972625 KB

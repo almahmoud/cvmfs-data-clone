@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/papHam1/sam_index/papHam1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/papHam1/picard_index/papHam1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/papHam1/picard_index/papHam1.dict
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie2_index/papHam1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie2_index/papHam1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie2_index/papHam1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie2_index/papHam1.4.bt2
+####### SIZE: 4249008 KB

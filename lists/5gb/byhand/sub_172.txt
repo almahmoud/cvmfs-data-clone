@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/Human_CHR15.sqlite
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/sift/Human_db_37/TRANSCRIPT_DB.sqlite
+####### SIZE: 3047669 KB

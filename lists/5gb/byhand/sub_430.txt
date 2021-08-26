@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/echTel1/quality_scores/echTel1.quals.fa
+####### SIZE: 11394471 KB

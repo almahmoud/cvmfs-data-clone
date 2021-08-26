@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/knownGene.exonNuc.fa.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/hg19.100way.scientificNames.nh
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/README.txt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/hg19.100way.commonNames.nh
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/upstream1000.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/upstream2000.maf.gz
+####### SIZE: 4454531 KB

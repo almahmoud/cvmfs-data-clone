@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/SA
+####### SIZE: 24567242 KB

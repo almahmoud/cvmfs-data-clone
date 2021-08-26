@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/Human_CHRX.sqlite
+####### SIZE: 2874610 KB

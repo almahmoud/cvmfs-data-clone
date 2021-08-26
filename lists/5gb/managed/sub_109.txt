@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melUnd1/melUnd1.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melUnd1/melUnd1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papHam1/papHam1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papHam1/papHam1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papHam1/papHam1.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papHam1/papHam1.fa.sa
+####### SIZE: 3757743 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTauMd3/bosTauMd3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTauMd3/bosTauMd3.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTauMd3/bosTauMd3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/nomLeu3/nomLeu3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/nomLeu3/nomLeu3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/nomLeu3/nomLeu3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/nomLeu3/nomLeu3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/nomLeu3/nomLeu3.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/nomLeu3/nomLeu3.4.ht2
+####### SIZE: 4503878 KB

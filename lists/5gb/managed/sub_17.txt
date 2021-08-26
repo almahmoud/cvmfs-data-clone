@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dasNov3/dasNov3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.1.ht2
+####### SIZE: 4198291 KB

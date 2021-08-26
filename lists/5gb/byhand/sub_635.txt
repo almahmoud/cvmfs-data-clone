@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat5/seq/felCat5.2bit
+/cvmfs/data.galaxyproject.org/byhand/felCat5/seq/felCat5.fa
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.rpac
+####### SIZE: 4877825 KB

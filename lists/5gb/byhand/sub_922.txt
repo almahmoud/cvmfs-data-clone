@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/hg19/maf/panTro3.maf
+####### SIZE: 5478019 KB

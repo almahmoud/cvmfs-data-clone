@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/sam_index/susScr3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/susScr3/seq2/susScr3.2bit
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/Column_names_snp55chr_files.xlsx
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr17.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr16.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr11.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr12.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr14.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr4.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr15.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr5.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr3.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr10.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr6.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr18.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr13.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr9.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr2.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr8.zip
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr7.zip
+####### SIZE: 4917724 KB

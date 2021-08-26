@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/seq/sarHar1.2bit
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/seq/sarHar1.fa
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa.sa
+####### SIZE: 4885293 KB

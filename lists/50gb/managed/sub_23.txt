@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr6.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr11.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr10.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr4.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr5.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr6.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr2.maf
+####### SIZE: 49683718 KB

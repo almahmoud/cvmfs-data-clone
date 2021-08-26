@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/turTru2/turTru2.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/turTru2/turTru2.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab1/equCab1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab1/equCab1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab1/equCab1.fa.pac
+####### SIZE: 4340268 KB

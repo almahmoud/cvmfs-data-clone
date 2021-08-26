@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToMm5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToMm6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToMm7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.4.ebwt
+####### SIZE: 4742930 KB

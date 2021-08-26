@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/seq/hg19canon.fa
+####### SIZE: 3083602 KB

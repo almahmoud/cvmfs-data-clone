@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr10.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr1.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chrY.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chrM.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr18.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr12.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr20.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr18.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr15.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr1.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr7.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr5.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr21.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr8.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr8.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr17.maf
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr13.maf
+/cvmfs/data.galaxyproject.org/managed/align/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/SAindex
+####### SIZE: 48386446 KB

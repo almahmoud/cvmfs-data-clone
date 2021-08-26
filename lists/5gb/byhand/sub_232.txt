@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz17way/chr9.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz17way/chrX.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz17way/chr12.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz17way/chr8.maf
+####### SIZE: 4982564 KB

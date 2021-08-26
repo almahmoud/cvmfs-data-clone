@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/db/hmm/orthomcl.h3m
+####### SIZE: 2958943 KB

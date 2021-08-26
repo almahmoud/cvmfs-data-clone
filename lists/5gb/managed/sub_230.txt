@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T164216Z_silva_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/data/tax_slv_ssu_138.1.txt
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T164216Z_silva_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/data/SILVA_138.1_SSURef_NR99_tax_silva.fasta
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T164216Z_silva_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/opts.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T164216Z_silva_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/taxo.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T164216Z_silva_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/hash.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T170532Z_rdp_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/opts.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T170532Z_rdp_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/taxo.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T170532Z_rdp_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/hash.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T172646Z_greengenes_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/data/gg_13_5_taxonomy.txt
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T172646Z_greengenes_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/opts.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T172646Z_greengenes_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/taxo.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T172646Z_greengenes_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/hash.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-26T021706Z_standard_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/unmapped.txt
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-26T021706Z_standard_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/opts.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-26T021706Z_standard_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/taxo.k2d
+####### SIZE: 1404020 KB

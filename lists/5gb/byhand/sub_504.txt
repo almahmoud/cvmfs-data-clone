@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToTurTru2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToVicPac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToSusScr2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToCerSim1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/bosTau7.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/bosTau7.2.ebwt
+####### SIZE: 4848369 KB

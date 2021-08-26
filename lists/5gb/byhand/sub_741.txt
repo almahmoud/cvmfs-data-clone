@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bwa_index/Homo_sapiens_nuHg19_mtrCRS.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bwa_index/Homo_sapiens_nuHg19_mtrCRS.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bwa_index/Homo_sapiens_nuHg19_mtrCRS.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie_index/cs/Homo_sapiens_nuHg19_mtrCRS.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie_index/cs/Homo_sapiens_nuHg19_mtrCRS.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie_index/cs/Homo_sapiens_nuHg19_mtrCRS.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie_index/cs/Homo_sapiens_nuHg19_mtrCRS.4.ebwt
+####### SIZE: 4478344 KB

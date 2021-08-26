@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/merged.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/division.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/taxdump.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/gimap.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/gencode.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/taxdump.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/gimap.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/gc.prt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/readme.txt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/delnodes.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/citations.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/taxdump.tar.gz
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/nodes.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/names.dmp
+####### SIZE: 240942 KB

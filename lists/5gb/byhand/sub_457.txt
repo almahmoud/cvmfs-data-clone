@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/liftOver/oviAri1ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/liftOver/oviAri1ToBosTau4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/liftOver/oviAri1ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/liftOver/oviAri1ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/liftOver/oviAri1ToEquCab2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.rev.2.ebwt
+####### SIZE: 4886133 KB

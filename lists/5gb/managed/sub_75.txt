@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac2/rheMac2.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac2/rheMac2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/nomLeu3/nomLeu3.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/nomLeu3/nomLeu3.2.bt2
+####### SIZE: 4806326 KB

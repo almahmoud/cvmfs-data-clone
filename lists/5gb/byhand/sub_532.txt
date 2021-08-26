@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToBosTau5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToBosTauMd3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToBosTau6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToOrnAna1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToOviAri1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToSusScr2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/liftOver/bosTau4ToHg18.over.chain
+####### SIZE: 4926031 KB

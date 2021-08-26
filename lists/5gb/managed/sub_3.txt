@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro4/panTro4.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro4/panTro4.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro4/panTro4.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2/sacCer2.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac3/rheMac3.6.ht2
+####### SIZE: 4893922 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.2.ht2
+####### SIZE: 4820157 KB

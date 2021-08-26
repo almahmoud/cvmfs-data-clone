@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/cs/hg19female.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.rbwt
+####### SIZE: 4447747 KB

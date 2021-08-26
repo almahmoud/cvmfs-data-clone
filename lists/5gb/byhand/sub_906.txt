@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bwa_index/Zea_mays_B73_RefGen_v2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bwa_index/Zea_mays_B73_RefGen_v2.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bwa_index/Zea_mays_B73_RefGen_v2.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bwa_index/Zea_mays_B73_RefGen_v2.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bwa_index/Zea_mays_B73_RefGen_v2.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/cs/Zea_mays_B73_RefGen_v2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/cs/Zea_mays_B73_RefGen_v2.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/cs/Zea_mays_B73_RefGen_v2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/cs/Zea_mays_B73_RefGen_v2.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/cs/Zea_mays_B73_RefGen_v2.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/cs/Zea_mays_B73_RefGen_v2.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.3.ebwt
+####### SIZE: 4934884 KB

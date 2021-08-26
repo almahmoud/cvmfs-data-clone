@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bwa_index/equCab2.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bwa_index/equCab2.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToGalGal3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToOrnAna1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToOviAri1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToPanTro3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/chrM.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/equCab2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/chrM.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/chrM.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/chrM.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/chrM.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/chrM.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/equCab2.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/equCab2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/equCab2.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/cs/equCab2.1.ebwt
+####### SIZE: 4961607 KB

@@ -1,0 +1,32 @@
+name: Clone CVMFS repository data.galaxyproject.org to SWIFT buckets
+on:
+  workflow_dispatch: {}
+jobs:
+  swiftclone:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/5gb/byhand/sub_1.txt
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true

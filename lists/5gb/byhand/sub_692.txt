@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/monDom4/xenTro2.monDom4.all.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/maf/xenTro2.maf.index
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/maf/xenTro2.maf
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/README.txt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/xenTro2.danRer4.net
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/xenTro2.axt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/danRer4/xenTro2.danRer4.all.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/maf/xenTro2.maf.index
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/maf/xenTro2.maf
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/README.txt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/xenTro2.rn4.net
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/xenTro2.axt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/xenTro2.rn4.all.chain
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/seq/xenTro2.2bit
+####### SIZE: 4370183 KB

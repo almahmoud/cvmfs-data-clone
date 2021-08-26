@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie2_index/saiBol1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie2_index/saiBol1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie2_index/saiBol1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie2_index/saiBol1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/seq/saiBol1.2bit
+####### SIZE: 3501275 KB

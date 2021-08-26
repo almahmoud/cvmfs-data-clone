@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rn6/rn6.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.4.bt2
+####### SIZE: 4878306 KB

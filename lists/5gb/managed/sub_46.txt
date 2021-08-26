@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/seq/danRer10.fa
+/cvmfs/data.galaxyproject.org/managed/seq/aptMan1.fa
+####### SIZE: 2884812 KB

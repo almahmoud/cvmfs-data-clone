@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.1.ht2
+####### SIZE: 4349433 KB

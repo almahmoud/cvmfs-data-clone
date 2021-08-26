@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bowtie2_index/speTri2.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bowtie2_index/speTri2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bowtie2_index/speTri2.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/speTri2/seq/speTri2.2bit
+####### SIZE: 2715425 KB

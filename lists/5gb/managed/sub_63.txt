@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/papAnu2/papAnu2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1/panPan1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1/panPan1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1/panPan1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1/panPan1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1/panPan1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1/panPan1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/allMis1/allMis1.3.bt2
+####### SIZE: 4743690 KB

@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/cs/loxAfr1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/cs/loxAfr1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/cs/loxAfr1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/cs/loxAfr1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/cs/loxAfr1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/venter1/sam_index/venter1.fa.fai
+####### SIZE: 4888331 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr4.maf.lzo
+####### SIZE: 4156377 KB

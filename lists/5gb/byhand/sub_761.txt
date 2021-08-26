@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/cs/hg_g1k_v37.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/cs/hg_g1k_v37.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/cs/hg_g1k_v37.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/cs/hg_g1k_v37.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.1.ebwt
+####### SIZE: 4858229 KB

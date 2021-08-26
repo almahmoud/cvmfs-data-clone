@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.7.10-r789/mm9full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bowtie_index/cs/mm9full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bowtie_index/cs/mm9full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bowtie_index/cs/mm9full.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bowtie_index/cs/mm9full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bowtie_index/cs/mm9full.1.ebwt
+####### SIZE: 4676591 KB

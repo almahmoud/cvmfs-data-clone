@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/venter1/seq/venter1.2bit
+/cvmfs/data.galaxyproject.org/byhand/venter1/seq/venter1.fa
+/cvmfs/data.galaxyproject.org/byhand/venter1/srma_index/venter1.dict
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.rpac
+####### SIZE: 4520709 KB

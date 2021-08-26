@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr20.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr1_gl000191_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr6_dbb_hap3.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr18_gl000207_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chrUn_gl000232.maf.lzot
+####### SIZE: 3137851 KB

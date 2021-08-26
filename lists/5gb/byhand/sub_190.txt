@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/misc/funDo/genes-disease.Sept2010.interval
+####### SIZE: 1675 KB

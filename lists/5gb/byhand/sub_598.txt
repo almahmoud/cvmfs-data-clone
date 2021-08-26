@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToBosTau7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToEquCab1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToBosTau4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToEquCab2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToCalJac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToPanTro3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToBosTau2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToFelCat1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/bowtie_index/cs/canFam2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam2/bowtie_index/cs/canFam2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/canFam2/bowtie_index/cs/canFam2.2.ebwt
+####### SIZE: 4490985 KB

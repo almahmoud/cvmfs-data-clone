@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/cs/gorGor3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/cs/gorGor3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/cs/gorGor3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/gorGor3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/gorGor3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/gorGor3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/gorGor3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/gorGor3.1.ebwt
+####### SIZE: 4465629 KB

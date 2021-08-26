@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/seq/bosTau4.2bit
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/seq/bosTau4.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.rsa
+####### SIZE: 4367408 KB

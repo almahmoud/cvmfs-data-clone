@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToMm8.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToDanRer4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToCavPor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToOrnAna1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToPonAbe2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToCalJac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/cs/monDom4.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/cs/monDom4.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/cs/monDom4.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/cs/monDom4.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/cs/monDom4.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/cs/monDom4.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/monDom4.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie_index/monDom4.rev.2.ebwt
+####### SIZE: 4864339 KB

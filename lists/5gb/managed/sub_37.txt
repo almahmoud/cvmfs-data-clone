@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.1.ht2
+####### SIZE: 4732134 KB

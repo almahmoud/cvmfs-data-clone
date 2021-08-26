@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/allMis1.fa
+####### SIZE: 2165940 KB

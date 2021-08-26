@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToHg38.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToDasNov2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToFelCat4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToPteVam1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToEriEur1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToPapHam1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToNomLeu2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToSpeTri2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToVicPac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToChoHof1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToGorGor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToOryCun2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToTarSyr1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToTurTru1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToTurTru2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToMicMur1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToNomLeu1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToRheMac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/cs/mm10.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/cs/mm10.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/cs/mm10.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/cs/mm10.4.ebwt
+####### SIZE: 4547805 KB

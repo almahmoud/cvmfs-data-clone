@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr3/loxAfr3.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr3/loxAfr3.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr3/loxAfr3.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr3/loxAfr3.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr3/loxAfr3.1.bt2
+####### SIZE: 4383676 KB

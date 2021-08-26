@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr13.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr14.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chr16.maf.index
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38/chrM.maf
+####### SIZE: 1187875 KB

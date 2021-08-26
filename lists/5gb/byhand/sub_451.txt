@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToGalGal3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToOrnAna1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToGorGor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToPanTro3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToMonDom4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToPanTro2.over.chain
+####### SIZE: 4970400 KB

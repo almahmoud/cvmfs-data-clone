@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/seq/bosTau7.2bit
+####### SIZE: 4653634 KB

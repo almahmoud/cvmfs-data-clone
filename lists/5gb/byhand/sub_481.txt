@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.20.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.19.maf
+####### SIZE: 4504129 KB

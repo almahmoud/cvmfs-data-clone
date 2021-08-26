@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToOrnAna1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToMonDom4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToPonAbe2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToMm9.over.chain
+####### SIZE: 4917980 KB

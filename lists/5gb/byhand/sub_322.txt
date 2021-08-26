@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/seq/panTro1.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bwa_index/panTro1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bwa_index/panTro1.fa.amb
+####### SIZE: 4409167 KB

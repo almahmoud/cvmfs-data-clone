@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/hg18full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/hg18full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/hg18full.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/hg18full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/hg18full.1.ebwt
+####### SIZE: 4534952 KB

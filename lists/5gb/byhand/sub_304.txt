@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie2_index/rheMac3.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/seq/rheMac3.2bit
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/seq/rheMac3.fa
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.rsa
+####### SIZE: 4959556 KB

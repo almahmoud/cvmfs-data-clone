@@ -1,0 +1,48 @@
+nameOverride: ""
+fullnameOverride: ""
+
+extraFileMappings: {}
+
+configs:
+  swift_upload.py: |
+    #!/usr/bin/env python3
+
+    import sys
+    import argparse
+
+    from cloudbridge.factory import CloudProviderFactory
+    from cloudbridge.factory import ProviderList
+
+    provider = CloudProviderFactory().create_provider(ProviderList.OPENSTACK, {})
+
+    def main(arguments):
+
+        parser = argparse.ArgumentParser(
+            description=__doc__,
+            formatter_class=argparse.RawDescriptionHelpFormatter)
+        parser.add_argument('filepath', help="File to upload", type=str)
+        parser.add_argument('destination', help="Destination in bucket", type=str)
+        parser.add_argument('-b', '--bucket', help="Name of destination bucket", type=str)
+
+        args = parser.parse_args(arguments)
+
+        bucket = provider.storage.buckets.get(args.bucket)
+        ob = bucket.objects.create(args.destination)
+
+        uploaded = False
+
+        while not uploaded:
+            uploaded = ob.upload_from_file(args.filepath)
+        print(f'Uploaded: {args.filepath}')
+
+    if __name__ == '__main__':
+        sys.exit(main(sys.argv[1:]))
+
+  upload_file.sh: |
+    #!/bin/bash
+    source /galaxy/server/.venv/bin/activate && python /mnt/configs/swift_upload.py -b "cvmfs-data" $1 ${1#"/cvmfs/data.galaxyproject.org"}
+
+cloneJob:
+  image: galaxy/galaxy-min:latest
+  command: grep "/cvmfs" /mnt/configs/list.txt | xargs -I@ bash /mnt/configs/upload_file.sh @
+  extraEnv: []

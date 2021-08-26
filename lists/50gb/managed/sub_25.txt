@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg38/hg38/dataset_fdfceb86-2b00-45f3-a3f4-63794ea8182d_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn6/rn6/dataset_d0061d40-7013-4497-b3f7-7d57b2a1a38c_files/Genome
+####### SIZE: 32322274 KB

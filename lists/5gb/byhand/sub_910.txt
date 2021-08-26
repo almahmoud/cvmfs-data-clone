@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bwa_index/papHam1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/papHam1/liftOver/papHam1ToGorGor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/papHam1/liftOver/papHam1ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/papHam1/liftOver/papHam1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie_index/cs/papHam1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie_index/cs/papHam1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie_index/cs/papHam1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie_index/cs/papHam1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/papHam1/bowtie_index/cs/papHam1.rev.1.ebwt
+####### SIZE: 4726984 KB

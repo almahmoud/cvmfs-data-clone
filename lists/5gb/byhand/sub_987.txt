@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/sam_index/otoGar1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/picard_index/otoGar1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/picard_index/otoGar1.dict
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bowtie2_index/otoGar1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bowtie2_index/otoGar1.4.bt2
+####### SIZE: 4862109 KB

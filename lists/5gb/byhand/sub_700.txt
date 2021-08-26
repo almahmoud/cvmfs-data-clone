@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/seq/dipOrd1.2bit
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/seq/dipOrd1.fa
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index/dipOrd1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index/dipOrd1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index/dipOrd1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index/dipOrd1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index/dipOrd1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index/dipOrd1.fa.rpac
+####### SIZE: 4307483 KB

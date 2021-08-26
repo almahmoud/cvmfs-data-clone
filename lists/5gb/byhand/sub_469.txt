@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/equCab2.quals.fa
+####### SIZE: 7400169 KB

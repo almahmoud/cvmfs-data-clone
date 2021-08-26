@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.rpac
+####### SIZE: 4822848 KB

@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/cs/anoCar1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/cs/anoCar1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/cs/anoCar1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/anoCar1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/anoCar1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/anoCar1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/anoCar1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/anoCar1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie_index/anoCar1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/sam_index/gorGor3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/picard_index/gorGor3.dict
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.rev.2.bt2
+####### SIZE: 4628631 KB

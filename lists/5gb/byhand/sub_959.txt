@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/hg38full.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bwa_index_v0.5.9-r16/hg38full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bwa_index_v0.5.9-r16/hg38full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bwa_index_v0.5.9-r16/nohup.out
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bwa_index_v0.5.9-r16/hg38full.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bwa_index_v0.5.9-r16/hg38full.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bwa_index_v0.5.9-r16/hg38full.fa.rpac
+####### SIZE: 4763844 KB

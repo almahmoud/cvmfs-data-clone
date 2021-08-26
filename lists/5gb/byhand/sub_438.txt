@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/loxAfr3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/loxAfr3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/galGal4/sam_index/galGal4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/galGal4/picard_index/galGal4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/galGal4/picard_index/galGal4.dict
+/cvmfs/data.galaxyproject.org/byhand/galGal4/seq/galGal4.2bit
+/cvmfs/data.galaxyproject.org/byhand/galGal4/seq/galGal4.fa
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/liftOver/galGal4ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/galGal4/liftOver/galGal4ToGeoFor1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.rev.2.ebwt
+####### SIZE: 4918797 KB

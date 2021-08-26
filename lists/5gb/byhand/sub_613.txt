@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/seq/calJac3.2bit
+/cvmfs/data.galaxyproject.org/byhand/calJac3/seq/calJac3canon.fa
+####### SIZE: 3503332 KB

@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/cs/panTro3full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/cs/panTro3full.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/cs/panTro3full.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/panTro3full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/panTro3full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/panTro3full.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/panTro3full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie_index/panTro3full.1.ebwt
+####### SIZE: 4575400 KB

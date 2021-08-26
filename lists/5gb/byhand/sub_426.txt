@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.7.10-r789/mm10.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.7.10-r789/mm10.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToOryLat2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToOreNil2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToGadMor1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToChrPic1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToAnoCar2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToXenTro3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToOreNil1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToGeoFor1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToSorAra1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToOviAri1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToSusScr2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToTriMan1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToPetMar1.over.chain
+####### SIZE: 4854049 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/seq/ponAbe2.fa
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bwa_index/ponAbe2.fa.sa
+####### SIZE: 4281766 KB

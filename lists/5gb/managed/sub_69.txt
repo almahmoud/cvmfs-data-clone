@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab2/equCab2.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab2/equCab2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab2/equCab2.2.bt2
+####### SIZE: 4962995 KB

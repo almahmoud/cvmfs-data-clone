@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/rn5/seq/rn5.fa
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.rpac
+####### SIZE: 4323189 KB

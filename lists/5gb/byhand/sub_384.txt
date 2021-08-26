@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat3/seq/felCat3.fa
+/cvmfs/data.galaxyproject.org/byhand/felCat3/bwa_index/felCat3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/felCat3/bwa_index/felCat3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/felCat3/bwa_index/felCat3.fa.rsa
+####### SIZE: 4546198 KB

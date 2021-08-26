@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/seq/hg18full.fa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.rev.2.bt2
+####### SIZE: 4491067 KB

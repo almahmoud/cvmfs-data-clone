@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie_index/cs/calJac3full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie_index/cs/calJac3full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie_index/cs/calJac3full.rev.2.ebwt
+####### SIZE: 4587851 KB

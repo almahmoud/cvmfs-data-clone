@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/seq/rheMac2.2bit
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/seq/rheMac2.fa
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.pac
+####### SIZE: 4983601 KB

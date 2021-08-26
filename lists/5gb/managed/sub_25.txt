@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3full/panTro3full.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal3/galGal3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.2.ht2
+####### SIZE: 4999498 KB

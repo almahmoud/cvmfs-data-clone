@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/susScr3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/susScr3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/susScr3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/susScr3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/susScr3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/susScr3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/sam_index/nomLeu1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/picard_index/nomLeu1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/picard_index/nomLeu1.dict
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.3.bt2
+####### SIZE: 4697709 KB

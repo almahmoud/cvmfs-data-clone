@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3full/galGal3.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3full/galGal3.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3full/galGal3.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac3/rheMac3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac3/rheMac3.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac3/rheMac3.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac3/rheMac3.fa.sa
+####### SIZE: 4063989 KB

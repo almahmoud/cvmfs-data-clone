@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie2_index/hg_g1k_v37.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie2_index/hg_g1k_v37.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie2_index/hg_g1k_v37.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie2_index/hg_g1k_v37.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/human_g1k_v37.stats.gz
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/seq/hg_g1k_v37.2bit
+####### SIZE: 4029413 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/seq/bosTau8.fa
+/cvmfs/data.galaxyproject.org/managed/seq/vicPac2.fa
+####### SIZE: 4827271 KB

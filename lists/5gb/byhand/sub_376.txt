@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bowtie2_index/susScr2.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bowtie2_index/susScr2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bowtie2_index/susScr2.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/susScr2/seq/susScr2.2bit
+/cvmfs/data.galaxyproject.org/byhand/susScr2/seq/susScr2.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.ann
+####### SIZE: 4847659 KB

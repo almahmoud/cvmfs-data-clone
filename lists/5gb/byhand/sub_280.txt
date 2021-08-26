@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.1.ebwt
+####### SIZE: 4453250 KB

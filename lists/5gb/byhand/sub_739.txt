@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie2_index/Homo_sapiens_nuHg19_mtrCRS.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie2_index/Homo_sapiens_nuHg19_mtrCRS.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie2_index/Homo_sapiens_nuHg19_mtrCRS.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/seq/Homo_sapiens_nuHg19_mtrCRS.2bit
+####### SIZE: 3398942 KB

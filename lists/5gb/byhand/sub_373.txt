@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/sorAra1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/sorAra1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/sorAra1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/sorAra1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/sorAra1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/sam_index/anoCar2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/download/2011_README_anoCar2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/picard_index/anoCar2.dict
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/seq/anoCar2.2bit
+####### SIZE: 4819807 KB

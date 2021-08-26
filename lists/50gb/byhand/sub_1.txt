@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/perm_index/hg19_base_F4_50.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/perm_index/hg19_color_F4_50.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/perm_index/hg19_color_F3_50.index
+####### SIZE: 38852375 KB

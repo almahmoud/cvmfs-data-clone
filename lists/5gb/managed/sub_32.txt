@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.1.ht2
+####### SIZE: 4424304 KB

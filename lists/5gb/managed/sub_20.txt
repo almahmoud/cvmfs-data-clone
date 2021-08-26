@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr1/loxAfr1.6.ht2
+####### SIZE: 2344469 KB

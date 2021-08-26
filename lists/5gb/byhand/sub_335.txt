@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/monDom5/liftOver/monDom5ToPetMar2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom5/liftOver/monDom5ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/monDom5/liftOver/monDom5ToMm10.over.chain
+####### SIZE: 4971220 KB

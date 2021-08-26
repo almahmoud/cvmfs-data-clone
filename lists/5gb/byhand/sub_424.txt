@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr12.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr10.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr18.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr15.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrY.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr8.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr13.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr4.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr3.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr6.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr5.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie2_index/mm10.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie2_index/mm10.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie2_index/mm10.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie2_index/mm10.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie2_index/mm10.rev.1.bt2
+####### SIZE: 4210380 KB

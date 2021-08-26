@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/upstream1000.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr1_gl000191_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr14.maf.lzo
+####### SIZE: 4146691 KB

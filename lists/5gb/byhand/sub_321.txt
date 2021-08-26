@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/chr13.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/chr3.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/chr4.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/chr5.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/chr1.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/chr2.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/seq/panTro1.2bit
+####### SIZE: 1919803 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat5/felCat5.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.2.ht2
+####### SIZE: 4767447 KB

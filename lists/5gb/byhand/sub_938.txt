@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cs/cavPor3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cs/cavPor3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cs/cavPor3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cs/cavPor3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.rev.1.ebwt
+####### SIZE: 4520331 KB

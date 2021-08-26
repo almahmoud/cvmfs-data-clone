@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/cs/calJac3canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/cs/calJac3canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/cs/calJac3canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/cs/calJac3canon.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/cs/calJac3canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/calJac3canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/calJac3canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/calJac3canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/calJac3canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie_index/calJac3canon.1.ebwt
+####### SIZE: 4772618 KB

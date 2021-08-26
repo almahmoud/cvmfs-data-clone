@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/seq/bosTau5.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bwa_index/bosTau5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bwa_index/bosTau5.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bwa_index/bosTau5.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bwa_index/bosTau5.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bwa_index/bosTau5.fa.pac
+####### SIZE: 4333658 KB

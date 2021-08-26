@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/seq/chrPic1.fa
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.pac
+####### SIZE: 4488538 KB

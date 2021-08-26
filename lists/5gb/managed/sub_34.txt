@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.4.ht2
+####### SIZE: 4763844 KB

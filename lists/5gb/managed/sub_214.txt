@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19/dataset_d34482b9-5123-4ac6-b22d-89a2c5588299_files/SA
+####### SIZE: 23342590 KB

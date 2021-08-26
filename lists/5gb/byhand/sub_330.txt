@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/liftOver/tupBel1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/liftOver/tupBel1ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.3.ebwt
+####### SIZE: 4793318 KB

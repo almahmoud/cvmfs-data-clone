@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/perm_index/hg19_base_F4_50.index
+####### SIZE: 12950791 KB

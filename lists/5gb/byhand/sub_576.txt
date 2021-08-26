@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/seq/mm9canon.fa
+####### SIZE: 2644541 KB

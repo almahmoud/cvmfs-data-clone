@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/seq/rn4full.fa
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToGalGal2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToMelGal1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToDanRer4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToRn3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToMm7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToRn5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToDanRer3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToGalGal3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToXenTro1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToCavPor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToXenTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToXenTro3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToEquCab1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToBosTau3.over.chain
+####### SIZE: 4965828 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.2.ht2
+####### SIZE: 4367261 KB

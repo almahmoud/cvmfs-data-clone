@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie2_index/micMur1.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie2_index/micMur1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie2_index/micMur1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie2_index/micMur1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/micMur1/seq/micMur1.2bit
+####### SIZE: 2881102 KB

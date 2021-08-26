@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/seq/hg18nohaps.fa
+####### SIZE: 3084426 KB

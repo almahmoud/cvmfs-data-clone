@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/liftOver/calJac3ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac3/liftOver/calJac3ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/20130311_calJac3full_bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bwa_index/calJac3full.fa.rsa
+####### SIZE: 4671228 KB

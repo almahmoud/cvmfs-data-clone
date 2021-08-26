@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToRheMac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToCalJac3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToCalJac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/cs/ponAbe2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/cs/ponAbe2.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/cs/ponAbe2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/cs/ponAbe2.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/cs/ponAbe2.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/cs/ponAbe2.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/ponAbe2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie_index/ponAbe2.2.ebwt
+####### SIZE: 4810584 KB

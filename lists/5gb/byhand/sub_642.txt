@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bowtie2_index/felCat4canon.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bowtie_index/cs/felCat4canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bowtie_index/cs/felCat4canon.2.ebwt
+####### SIZE: 4994201 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.1.bt2
+####### SIZE: 4854320 KB

@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/cs/rn4full.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/rn4full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/rn4full.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/rn4full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/rn4full.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/rn4full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/rn4full.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/seq/rn4.2bit
+####### SIZE: 4175728 KB

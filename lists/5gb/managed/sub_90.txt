@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/aptMan1/aptMan1.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/aptMan1/aptMan1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/eschColi_K12/eschColi_K12.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/eschColi_K12/eschColi_K12.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/eschColi_K12/eschColi_K12.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/eschColi_K12/eschColi_K12.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/eschColi_K12/eschColi_K12.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melGal1/melGal1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melGal1/melGal1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melGal1/melGal1.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melGal1/melGal1.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melGal1/melGal1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/loxAfr3/loxAfr3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/loxAfr3/loxAfr3.fa.amb
+####### SIZE: 4230491 KB

@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.rev.2.ebwt
+####### SIZE: 4876458 KB

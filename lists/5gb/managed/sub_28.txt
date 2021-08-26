@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3/canFam3.6.ht2
+####### SIZE: 4595873 KB

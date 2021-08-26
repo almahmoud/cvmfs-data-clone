@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files/Genome
+####### SIZE: 4607070 KB

@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr2/susScr2.4.ht2
+####### SIZE: 4927491 KB

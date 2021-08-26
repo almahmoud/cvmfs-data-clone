@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/wgs_28jan2013.tar.gz
+####### SIZE: 82721180 KB

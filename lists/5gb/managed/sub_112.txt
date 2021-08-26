@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/nomLeu3/nomLeu3.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/nomLeu3/nomLeu3.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/otoGar1/otoGar1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/otoGar1/otoGar1.fa.ann
+####### SIZE: 4355180 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/seq/panTro2canon.fa
+####### SIZE: 3163195 KB

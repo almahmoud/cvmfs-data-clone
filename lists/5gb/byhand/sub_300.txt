@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate.bw
+####### SIZE: 5915418 KB

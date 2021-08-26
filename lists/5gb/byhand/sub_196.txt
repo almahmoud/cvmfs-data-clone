@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie2_index/rn5.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie2_index/rn5.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie2_index/rn5.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie2_index/rn5.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie2_index/rn5.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn5/seq/rn5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/rn5/seq/rn5.2bit
+####### SIZE: 4316690 KB

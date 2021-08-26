@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.7.10-r789/susScr3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.7.10-r789/susScr3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/liftOver/susScr3ToSusScr2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr3/liftOver/susScr3ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.2.ebwt
+####### SIZE: 4929905 KB

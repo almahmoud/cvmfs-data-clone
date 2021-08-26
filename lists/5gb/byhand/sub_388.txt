@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie2_index/oryCun2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie2_index/oryCun2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie2_index/oryCun2.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/seq/oryCun2.2bit
+####### SIZE: 3040051 KB

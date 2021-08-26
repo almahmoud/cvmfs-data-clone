@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rheMac2/rheMac2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.3.ht2
+####### SIZE: 4801201 KB

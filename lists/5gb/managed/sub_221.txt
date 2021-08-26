@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/Amel_4.5/Amel_4.5/dataset_c53a2b2d-8347-4188-82ad-aed87c416f38_files/Log.out
+####### SIZE: 4078557 KB

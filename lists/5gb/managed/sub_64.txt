@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/allMis1/allMis1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/allMis1/allMis1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/allMis1/allMis1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/allMis1/allMis1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/allMis1/allMis1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.2.bt2
+####### SIZE: 4418061 KB

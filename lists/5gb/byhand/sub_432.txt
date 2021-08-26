@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/echTel1/seq/echTel1.fa
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.rsa
+####### SIZE: 4769558 KB

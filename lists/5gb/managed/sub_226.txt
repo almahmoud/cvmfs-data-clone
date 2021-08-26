@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/rn5/rn5/dataset_ce95c5ad-dcdc-421a-af7f-f5680922d395_files/Genome
+####### SIZE: 3532801 KB

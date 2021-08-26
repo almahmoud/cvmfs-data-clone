@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/papAnu2/papAnu2.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/papAnu2/papAnu2.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/papAnu2/papAnu2.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/papAnu2/papAnu2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/papAnu2/papAnu2.1.bt2
+####### SIZE: 4564371 KB

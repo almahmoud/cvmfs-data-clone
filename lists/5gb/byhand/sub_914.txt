@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/equCab2/maf/panTro3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/equCab2/maf/panTro3.maf
+####### SIZE: 3774457 KB

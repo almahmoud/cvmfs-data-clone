@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac2/rheMac2.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac2/rheMac2.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/panTro3canon/panTro3canon.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/panTro3canon/panTro3canon.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/panTro3canon/panTro3canon.fa.pac
+####### SIZE: 4965666 KB

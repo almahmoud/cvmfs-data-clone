@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.31.psq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.34.pin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.34.phd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.36.ppi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.33.ppd
+####### SIZE: 4159162 KB

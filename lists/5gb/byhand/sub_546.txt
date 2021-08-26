@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bowtie2_index/AaegL1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bowtie2_index/AaegL1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/seq/AaegL1.2bit
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/seq/AaegL1.fa
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bowtie_index/cs/AaegL1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bowtie_index/cs/AaegL1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bowtie_index/cs/AaegL1.2.ebwt
+####### SIZE: 4938265 KB

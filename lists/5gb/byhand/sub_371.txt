@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/seq/sorAra1.fa
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bwa_index/sorAra1.fa.rpac
+####### SIZE: 4380129 KB

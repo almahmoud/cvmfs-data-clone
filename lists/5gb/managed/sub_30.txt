@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.1.ht2
+####### SIZE: 4361992 KB

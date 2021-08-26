@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bwa_index/oryCun1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bwa_index/oryCun1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bwa_index/oryCun1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bwa_index/oryCun1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bwa_index/oryCun1.fa.rbwt
+####### SIZE: 3806117 KB

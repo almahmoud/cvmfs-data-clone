@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie_index/hg38canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie_index/hg38canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie_index/hg38canon.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie_index/hg38canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38full.fa.ids
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38female.fa.ids
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/make_hg38_variants.sh
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38canon.fa.ids
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38.2bit
+####### SIZE: 3539189 KB

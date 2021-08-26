@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/rn4.quals.fa
+####### SIZE: 8043927 KB

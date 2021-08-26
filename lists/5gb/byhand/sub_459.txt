@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie2_index/bosTau2.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie2_index/bosTau2.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/seq/bosTau2.2bit
+####### SIZE: 2764249 KB

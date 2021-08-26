@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat8/felCat8.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat8/felCat8.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam3/canFam3.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam3/canFam3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam3/canFam3.fa.pac
+####### SIZE: 4458300 KB

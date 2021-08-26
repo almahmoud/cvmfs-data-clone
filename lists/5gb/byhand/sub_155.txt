@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.7.10-r789/hg19cannon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie_index/cs/hg19canon_sorted.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie_index/cs/hg19canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie_index/cs/hg19canon_sorted.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie_index/cs/hg19canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie_index/cs/hg19canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie_index/cs/hg19canon_sorted.rev.2.ebwt
+####### SIZE: 4420291 KB

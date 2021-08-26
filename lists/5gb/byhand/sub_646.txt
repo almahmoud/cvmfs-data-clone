@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/cs/sarHar1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/cs/sarHar1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/cs/sarHar1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/sarHar1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/sarHar1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/sarHar1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/sarHar1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/sarHar1.4.ebwt
+####### SIZE: 4626197 KB

@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.7.ht2
+####### SIZE: 4855723 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.25.phr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.27.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.26.pin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.26.phr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.28.phd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.24.phi
+####### SIZE: 4947867 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bwa_index/mm8full.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bwa_index/mm8full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/mm8full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/mm8full.rev.2.ebwt
+####### SIZE: 4959347 KB

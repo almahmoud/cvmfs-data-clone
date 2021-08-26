@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr1/loxAfr1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr1/loxAfr1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr1/loxAfr1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr1/loxAfr1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr1/loxAfr1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/loxAfr1/loxAfr1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.rev.2.bt2
+####### SIZE: 4645276 KB

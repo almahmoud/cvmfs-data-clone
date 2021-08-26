@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.1.ht2
+####### SIZE: 4122002 KB

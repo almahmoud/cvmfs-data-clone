@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie2_index/hg38canon.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie2_index/hg38canon.4.bt2
+####### SIZE: 4487095 KB

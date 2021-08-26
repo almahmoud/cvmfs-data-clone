@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bwa_index/oryCun1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/liftOver/oryCun1ToCavPor3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/liftOver/oryCun1ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/cs/oryCun1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/cs/oryCun1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/cs/oryCun1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/cs/oryCun1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/cs/oryCun1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/cs/oryCun1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/oryCun1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/oryCun1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/oryCun1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index/oryCun1.4.ebwt
+####### SIZE: 4897931 KB

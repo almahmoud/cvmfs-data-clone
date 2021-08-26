@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bwa_index/panTro1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bwa_index/panTro1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToHg17.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToHg16.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToMm7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToMm8.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToMm6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bowtie_index/cs/panTro1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bowtie_index/cs/panTro1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bowtie_index/cs/panTro1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bowtie_index/cs/panTro1.4.ebwt
+####### SIZE: 4428916 KB

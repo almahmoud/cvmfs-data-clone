@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/seq/myoLuc2.fa
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/srma_index/myoLuc2.dict
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bowtie_index/cs/myoLuc2.3.ebwt
+####### SIZE: 4851665 KB

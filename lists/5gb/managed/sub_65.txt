@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rn6/rn6.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rn6/rn6.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rn6/rn6.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rn6/rn6.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rn6/rn6.rev.1.bt2
+####### SIZE: 4183599 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie2_index/rn3.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie2_index/rn3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/rn3/seq/rn3.2bit
+####### SIZE: 2426777 KB

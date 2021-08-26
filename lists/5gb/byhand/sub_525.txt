@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bwa_index/mm8canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bwa_index/mm8canon.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/cs/mm8canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/cs/mm8canon.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/cs/mm8canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/cs/mm8canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/cs/mm8canon.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/cs/mm8canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.2.ebwt
+####### SIZE: 4924440 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.36.psq
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/taxdb.bti
+####### SIZE: 2988457 KB

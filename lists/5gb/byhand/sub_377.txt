@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToSusScr3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToBosTau7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToBosTau6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/liftOver/susScr2ToBosTau4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bowtie_index/cs/susScr2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bowtie_index/cs/susScr2.rev.2.ebwt
+####### SIZE: 4807646 KB

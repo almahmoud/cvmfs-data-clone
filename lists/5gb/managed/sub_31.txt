@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/turTru2/turTru2.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19female/hg19female.4.ht2
+####### SIZE: 4888884 KB

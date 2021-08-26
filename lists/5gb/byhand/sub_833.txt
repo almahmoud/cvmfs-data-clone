@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.13.phr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.12.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.19.ppi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.20.ppi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.16.phi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.19.pin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.17.ppd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.20.phi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.19.ppd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.17.pin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.18.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.20.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.19.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.19.phd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.17.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.16.phd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.20.ppd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.17.phi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.16.pog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.17.phd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.16.pin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.18.phi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.16.ppd
+####### SIZE: 3113388 KB

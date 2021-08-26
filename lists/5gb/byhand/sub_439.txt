@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/galGal4/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/sam_index/ailMel1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/picard_index/ailMel1.dict
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.1.bt2
+####### SIZE: 4448135 KB

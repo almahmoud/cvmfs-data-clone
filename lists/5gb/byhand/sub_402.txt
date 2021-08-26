@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/seq/dasNov1.fa
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/srma_index/dasNov1.dict
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bwa_index/dasNov1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bwa_index/dasNov1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bwa_index/dasNov1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bwa_index/dasNov1.fa.sa
+####### SIZE: 4834265 KB

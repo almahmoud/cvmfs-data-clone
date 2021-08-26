@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/seq/criGri1.fa
+/cvmfs/data.galaxyproject.org/managed/seq/felCat8.fa
+####### SIZE: 4989708 KB

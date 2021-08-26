@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/micMur1/seq/micMur1.fa
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bwa_index/micMur1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bwa_index/micMur1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bwa_index/micMur1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bwa_index/micMur1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bwa_index/micMur1.fa.rpac
+####### SIZE: 4326873 KB

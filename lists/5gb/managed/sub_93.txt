@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal4/galGal4.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal4/galGal4.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal4/galGal4.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.sa
+####### SIZE: 4476617 KB

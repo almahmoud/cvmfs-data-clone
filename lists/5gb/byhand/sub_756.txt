@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/rn3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/rn3.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/rn3.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/rn3.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/rn3.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/rn3.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/rn3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bwa_index_v0.5.9-r16/hg_g1k_v37.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bwa_index_v0.5.9-r16/hg_g1k_v37.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bwa_index_v0.5.9-r16/hg_g1k_v37.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bwa_index_v0.5.9-r16/hg_g1k_v37.fa.sa
+####### SIZE: 4932108 KB

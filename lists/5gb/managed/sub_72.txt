@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/felCat8/felCat8.3.bt2
+####### SIZE: 4470735 KB

@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac3/rheMac3.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac3/rheMac3.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac3/rheMac3.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac3/rheMac3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.2.bt2
+####### SIZE: 4901839 KB

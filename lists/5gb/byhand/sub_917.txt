@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/align/canFam2/maf/panTro3.maf
+####### SIZE: 3531265 KB

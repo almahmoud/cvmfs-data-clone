@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bwa_index/echTel1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/liftOver/echTel1ToMm7.over.chain
+/cvmfs/data.galaxyproject.org/byhand/echTel1/liftOver/echTel1ToMm10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/echTel1/liftOver/echTel1ToMm9.over.chain
+####### SIZE: 4932318 KB

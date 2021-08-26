@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie2_index/monDom1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie2_index/monDom1.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/monDom1/seq/monDom1.2bit
+####### SIZE: 3209619 KB

@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19/dataset_8d6c53e4-be90-4b2c-9bc4-eb9e9599e2e7_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19/dataset_8d6c53e4-be90-4b2c-9bc4-eb9e9599e2e7_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19/dataset_8d6c53e4-be90-4b2c-9bc4-eb9e9599e2e7_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/Log.out
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/Genome
+####### SIZE: 35054196 KB

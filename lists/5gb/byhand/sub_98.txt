@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/hg19.100way.nh
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/refGene.exonAA.fa.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/knownCanonical.exonAA.fa.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/knownGene.exonAA.fa.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/knownCanonical.exonNuc.fa.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/refGene.exonNuc.fa.gz
+####### SIZE: 4670825 KB

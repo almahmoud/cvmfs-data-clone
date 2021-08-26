@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/database.idx
+####### SIZE: 8388609 KB

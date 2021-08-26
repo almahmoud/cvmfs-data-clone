@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm10/mm10.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm10/mm10.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm10/mm10.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm10/mm10.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm10/mm10.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce9/ce9.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr3/loxAfr3.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr3/loxAfr3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr3/loxAfr3.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr3/loxAfr3.4.ht2
+####### SIZE: 4696604 KB

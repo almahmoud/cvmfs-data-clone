@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_README_hg38
+/cvmfs/data.galaxyproject.org/byhand/hg38/picard_index/hg38canon.dict
+/cvmfs/data.galaxyproject.org/byhand/hg38/picard_index/hg38.dict
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.rpac
+####### SIZE: 4676847 KB

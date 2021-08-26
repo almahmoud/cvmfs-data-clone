@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.7.10-r789/mm9canon.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.7.10-r789/mm9canon.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bowtie_index/cs/mm9canon.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bowtie_index/cs/mm9canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bowtie_index/cs/mm9canon.2.ebwt
+####### SIZE: 4513678 KB

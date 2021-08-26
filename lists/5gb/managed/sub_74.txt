@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab1/equCab1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab1/equCab1.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab1/equCab1.rev.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/equCab1/equCab1.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac2/rheMac2.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac2/rheMac2.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac2/rheMac2.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/rheMac2/rheMac2.4.bt2
+####### SIZE: 4708656 KB

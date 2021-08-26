@@ -1,0 +1,26 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/database.kdb
+/cvmfs/data.galaxyproject.org/managed/kraken_database/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/division.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/gencode.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/gc.prt
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/merged.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/readme.txt
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/delnodes.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/citations.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/nodes.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/names.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/SA
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/ce10/dataset_952371_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrNameLength.txt
+####### SIZE: 4246652 KB

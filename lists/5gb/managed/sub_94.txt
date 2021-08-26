@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab2/equCab2.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab2/equCab2.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab2/equCab2.fa.pac
+####### SIZE: 4153903 KB

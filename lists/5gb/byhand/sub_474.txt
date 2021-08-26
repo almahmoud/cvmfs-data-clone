@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/seq/saiBol1.fa
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bwa_index/saiBol1.fa.pac
+####### SIZE: 4511559 KB

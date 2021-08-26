@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/seq/mm8.2bit
+####### SIZE: 3045547 KB

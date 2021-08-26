@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bwa_index/loxAfr3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bwa_index/loxAfr3.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bwa_index/loxAfr3.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bwa_index/loxAfr3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bwa_index/loxAfr3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/liftOver/loxAfr3ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/liftOver/loxAfr3ToMm9.over.chain
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/liftOver/loxAfr3ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bowtie_index/cs/loxAfr3.3.ebwt
+####### SIZE: 4773455 KB

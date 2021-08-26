@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.bwt
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papAnu2/papAnu2.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papAnu2/papAnu2.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papAnu2/papAnu2.fa.pac
+####### SIZE: 3747509 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/hg19female.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie2_index/hg19female.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie2_index/hg19female.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie2_index/hg19female.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie2_index/hg19female.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bowtie2_index/hg19female.1.bt2
+####### SIZE: 4116039 KB

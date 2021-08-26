@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom2/seq/monDom2.2bit
+/cvmfs/data.galaxyproject.org/byhand/monDom2/seq/monDom2.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom2/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/monDom5/sam_index/monDom5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/monDom5/picard_index/monDom5.dict
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.3.bt2
+####### SIZE: 4482365 KB

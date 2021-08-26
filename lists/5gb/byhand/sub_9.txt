@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bowtie2_index/hg19full.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bowtie2_index/hg19full.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.7.10-r789/hg19full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.7.10-r789/hg19full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.7.10-r789/hg19full.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.7.10-r789/hg19full.fa.sa
+####### SIZE: 4192218 KB

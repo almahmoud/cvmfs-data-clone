@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38female/hg38female.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/bosTau8/bosTau8.1.ht2
+####### SIZE: 4707676 KB

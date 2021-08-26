@@ -1,0 +1,1 @@
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-26T021706Z_standard_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/hash.k2d

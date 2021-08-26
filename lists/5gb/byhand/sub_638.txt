@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index/felCat4full.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bowtie_index/cs/felCat4full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bowtie_index/cs/felCat4full.2.ebwt
+####### SIZE: 4890383 KB

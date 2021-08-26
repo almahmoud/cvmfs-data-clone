@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/SAindex
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/Genome
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/SA
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/annot/orthofinder.avg_evalue.summary
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/annot/orthofinder.min_evalue.summary
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/annot/orthomcl.list
+####### SIZE: 4993484 KB

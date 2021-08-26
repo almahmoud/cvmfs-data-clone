@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToRn4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToMonDom5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToBosTau3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToCalJac1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToEquCab2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToCanFam2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToFelCat4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToLoxAfr3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToOryCun2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToAilMel1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToRn5.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToPanTro3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToPonAbe2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToPanTro2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToRheMac2.over.chain
+/cvmfs/data.galaxyproject.org/byhand/mm9/mosaik_jump/mm9_meta.jmp
+####### SIZE: 3134997 KB

@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bowtie_index/borEut13.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/borEut13/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/sam_index/bosTau7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/picard_index/bosTau7.dict
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/picard_index/bosTau7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.3.bt2
+####### SIZE: 4963444 KB

@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/echTel1/liftOver/echTel1ToHg19.over.chain
+/cvmfs/data.galaxyproject.org/byhand/echTel1/liftOver/echTel1ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/echTel1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/echTel1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/echTel1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/echTel1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/echTel1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/echTel1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/echTel1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/ce9/sam_index/ce9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce9/picard_index/ce9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce9/picard_index/ce9.dict
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.1.bt2
+####### SIZE: 4990856 KB

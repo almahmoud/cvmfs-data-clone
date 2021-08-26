@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/hg38female.fa
+####### SIZE: 3019220 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/seq/gorGor3.2bit
+####### SIZE: 3323797 KB

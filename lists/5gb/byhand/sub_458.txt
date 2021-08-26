@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/sam_index/bosTau2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/download/2011_README_bosTau2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/picard_index/bosTau2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/picard_index/bosTau2.dict
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie2_index/bosTau2.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie2_index/bosTau2.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie2_index/bosTau2.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bowtie2_index/bosTau2.rev.2.bt2
+####### SIZE: 4622748 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bowtie2_index/borEut13.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bowtie2_index/borEut13.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.21.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.17.maf
+/cvmfs/data.galaxyproject.org/byhand/borEut13/align/borEut13.14.maf
+####### SIZE: 3660793 KB

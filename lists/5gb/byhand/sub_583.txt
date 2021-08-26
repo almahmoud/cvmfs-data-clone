@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/seq/bosTau3.2bit
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/seq/bosTau3.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bwa_index/bosTau3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bwa_index/bosTau3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bwa_index/bosTau3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bwa_index/bosTau3.fa.rsa
+####### SIZE: 4345313 KB
