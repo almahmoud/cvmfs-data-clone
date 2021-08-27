@@ -1,7 +1,7 @@
 name: Clone CVMFS repository data.galaxyproject.org to SWIFT buckets
 on:
   schedule:
-    - cron: "10 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 jobs:
