@@ -1,4 +1,3 @@
-5gb/managed/sub_15.txt
 5gb/managed/sub_150.txt
 5gb/managed/sub_151.txt
 5gb/managed/sub_152.txt
