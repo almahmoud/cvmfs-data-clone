@@ -1,4 +1,3 @@
-5gb/managed/sub_157.txt.bn
 5gb/managed/sub_152.txt.ao
 5gb/managed/sub_156.txt.az
 5gb/managed/sub_157.txt.do
