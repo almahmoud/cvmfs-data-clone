@@ -1,4 +1,3 @@
-5gb/managed/sub_152.txt.bt
 5gb/managed/sub_152.txt.ec
 5gb/managed/sub_157.txt.co
 5gb/managed/sub_156.txt.bf
