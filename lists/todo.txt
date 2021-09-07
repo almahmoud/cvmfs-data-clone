@@ -1,4 +1,3 @@
-5gb/managed/sub_156.txt.ef
 5gb/managed/sub_156.txt.aj
 5gb/managed/sub_168.txt.au
 5gb/managed/sub_175.txt.bi
