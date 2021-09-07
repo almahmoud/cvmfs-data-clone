@@ -1,4 +1,3 @@
-5gb/managed/sub_156.txt.cj
 5gb/managed/sub_156.txt.df
 5gb/managed/sub_156.txt.cf
 5gb/managed/sub_152.txt.ck
