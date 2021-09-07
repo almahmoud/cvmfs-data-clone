@@ -1,4 +1,3 @@
-5gb/managed/sub_152.txt.dx
 5gb/managed/sub_156.txt.am
 5gb/managed/sub_152.txt.ce
 5gb/managed/sub_155.txt.ag
