@@ -1,4 +1,3 @@
-5gb/managed/sub_155.txt.at
 5gb/managed/sub_155.txt.an
 5gb/managed/sub_157.txt.dr
 5gb/managed/sub_157.txt.dl
