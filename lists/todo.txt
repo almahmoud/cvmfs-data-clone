@@ -1,4 +1,3 @@
-5gb/managed/sub_156.txt.dz
 5gb/managed/sub_152.txt.cu
 5gb/managed/sub_156.txt.dn
 5gb/managed/sub_153.txt.ai
