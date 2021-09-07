@@ -5,7 +5,7 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  swiftclone:
+  swiftclone1:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,6 +14,448 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 30;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone3:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 60;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone4:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 90;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone5:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 120;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone6:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 150;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone7:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 180;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone8:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 210;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone9:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 240;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
+          export first=$(head -n 1 lists/todo.txt)
+          mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
+          git add lists
+          git commit -m "Claim list $first"
+          git push
+          echo "::set-output name=path::$(echo $first)"
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Start k8s locally
+        uses: jupyterhub/action-k3s-helm@v1
+        with:
+          k3s-version: v1.19.10+k3s1 # releases:  https://github.com/k3s-io/k3s/tags
+      - name: Verify function of k8s, kubectl, and helm
+        run: |
+          kubectl version
+          helm version
+      - name: Helm repo add galaxy
+        run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
+      - name: Helm install CVMFS-CSI
+        run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
+      - name: Helm install clone jobs
+        run: echo "$CB_IU_CREDS" > /tmp/creds && helm install data-clone ./cvmfs-clone --set-file extraFileMappings."/root/\.cloudbridge".content=/tmp/creds --set-file configs."list\.txt"=lists/claimed/${{steps.list.outputs.path}}
+        env:
+          CB_IU_CREDS: ${{secrets.CB_IU_CREDS}}
+      - name: Get logs and events
+        run: sh -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-clone-[^ ]*')  > /tmp/logs && tail /tmp/logs && sleep 5; lists/done;" & kubectl wait --for=condition=complete --timeout=6000s job/data-clone
+        continue-on-error: true
+      - name: Done list
+        run: |
+          git pull origin master
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          mkdir -p lists/done/$(dirname ${{steps.list.outputs.path}}) && mv lists/claimed/${{steps.list.outputs.path}} lists/done/${{steps.list.outputs.path}}
+          git add lists
+          git commit -m "Done list ${{steps.list.outputs.path}}"
+          git push
+
+  swiftclone10:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Claim list
+        id: list
+        run: |
+          sleep 270;
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git pull origin master
           export first=$(head -n 1 lists/todo.txt)
           mkdir -p lists/claimed/$(dirname $first) && mv lists/$first lists/claimed/$first && tail -n +2 "lists/todo.txt" > "lists/todo.txt.tmp" && mv "lists/todo.txt.tmp" "lists/todo.txt"
           git add lists
