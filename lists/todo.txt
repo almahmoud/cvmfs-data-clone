@@ -1,4 +1,3 @@
-5gb/managed/sub_155.txt.aj
 5gb/managed/sub_152.txt.an
 5gb/managed/sub_156.txt.dx
 5gb/managed/sub_155.txt.as
