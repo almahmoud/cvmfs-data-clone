@@ -1,4 +1,3 @@
-5gb/managed/sub_174.txt.aa
 5gb/managed/sub_168.txt.bq
 5gb/managed/sub_157.txt.cq
 5gb/managed/sub_168.txt.ah
