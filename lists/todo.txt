@@ -1,4 +1,3 @@
-5gb/managed/sub_152.txt.aw
 5gb/managed/sub_167.txt.at
 5gb/managed/sub_155.txt.ah
 5gb/managed/sub_156.txt.da
