@@ -1,4 +1,3 @@
-5gb/managed/sub_152.txt.ba
 5gb/managed/sub_157.txt.ba
 5gb/managed/sub_153.txt.au
 5gb/managed/sub_156.txt.dv
