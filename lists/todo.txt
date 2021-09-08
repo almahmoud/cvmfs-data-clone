@@ -1,4 +1,3 @@
-5gb/managed/sub_128.txt.ac
 5gb/managed/sub_167.txt.an
 5gb/managed/sub_168.txt.bz
 5gb/managed/sub_128.txt.al
