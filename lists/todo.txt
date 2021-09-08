@@ -1,4 +1,3 @@
-5gb/byhand/sub_328.txt.du
 5gb/byhand/sub_535.txt.em
 5gb/byhand/sub_328.txt.dd
 5gb/byhand/sub_535.txt.fx
