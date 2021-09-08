@@ -1,4 +1,3 @@
-5gb/managed/sub_152.txt.cs
 5gb/managed/sub_152.txt.db
 5gb/managed/sub_168.txt.am
 5gb/managed/sub_156.txt.cq
