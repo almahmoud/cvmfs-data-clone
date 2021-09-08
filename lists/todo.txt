@@ -1,4 +1,3 @@
-5gb/byhand/sub_328.txt.ax
 5gb/byhand/sub_381.txt.cc
 5gb/byhand/sub_548.txt.as
 5gb/byhand/sub_431.txt.dq
