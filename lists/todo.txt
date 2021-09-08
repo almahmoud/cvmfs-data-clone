@@ -1,4 +1,3 @@
-5gb/byhand/sub_370.txt.gd
 5gb/byhand/sub_535.txt.io
 5gb/byhand/sub_988.txt.eh
 5gb/byhand/sub_535.txt.gy
