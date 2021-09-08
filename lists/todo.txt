@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.bl
 5gb/byhand/sub_537.txt.ds
 5gb/byhand/sub_535.txt.dm
 5gb/byhand/sub_535.txt.cd
