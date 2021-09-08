@@ -1,4 +1,3 @@
-5gb/managed/sub_156.txt.db
 5gb/managed/sub_175.txt.bd
 5gb/managed/sub_156.txt.cd
 5gb/managed/sub_175.txt.ai
