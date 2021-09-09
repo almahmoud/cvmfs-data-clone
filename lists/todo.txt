@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.ci
 5gb/byhand/sub_535.txt.bi
 5gb/byhand/sub_356.txt.au
 5gb/byhand/sub_357.txt.bq
