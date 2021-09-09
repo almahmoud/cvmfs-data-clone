@@ -1,4 +1,3 @@
-5gb/byhand/sub_988.txt.bp
 5gb/byhand/sub_534.txt.df
 5gb/byhand/sub_534.txt.bi
 5gb/byhand/sub_370.txt.cz
