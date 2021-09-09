@@ -1,4 +1,3 @@
-5gb/byhand/sub_370.txt.au
 5gb/byhand/sub_988.txt.ck
 5gb/byhand/sub_381.txt.be
 5gb/byhand/sub_988.txt.bv
