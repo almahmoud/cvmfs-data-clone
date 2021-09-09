@@ -1,4 +1,3 @@
-5gb/byhand/sub_383.txt.dx
 5gb/byhand/sub_549.txt.as
 5gb/byhand/sub_549.txt.da
 5gb/byhand/sub_370.txt.go
