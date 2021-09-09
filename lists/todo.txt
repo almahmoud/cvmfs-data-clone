@@ -1,4 +1,3 @@
-5gb/byhand/sub_534.txt.bv
 5gb/byhand/sub_534.txt.ih
 5gb/byhand/sub_535.txt.cj
 5gb/byhand/sub_383.txt.dy
