@@ -1,4 +1,3 @@
-5gb/byhand/sub_534.txt.ib
 5gb/byhand/sub_383.txt.ch
 5gb/byhand/sub_368.txt.cu
 5gb/byhand/sub_534.txt.hv
