@@ -1,4 +1,3 @@
-5gb/byhand/sub_356.txt.ar
 5gb/byhand/sub_356.txt.cc
 5gb/byhand/sub_370.txt.db
 5gb/byhand/sub_431.txt.ao
