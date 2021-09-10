@@ -1,4 +1,3 @@
-5gb/byhand/sub_356.txt.cn
 5gb/byhand/sub_357.txt.dm
 5gb/byhand/sub_431.txt.lp
 5gb/byhand/sub_357.txt.bd
