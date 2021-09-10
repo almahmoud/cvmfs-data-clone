@@ -1,4 +1,3 @@
-5gb/byhand/sub_534.txt.go
 5gb/byhand/sub_429.txt.am
 5gb/byhand/sub_549.txt.ct
 5gb/byhand/sub_535.txt.ga
