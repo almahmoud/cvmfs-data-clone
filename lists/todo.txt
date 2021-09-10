@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.dn
 5gb/byhand/sub_548.txt.di
 5gb/byhand/sub_534.txt.fh
 5gb/byhand/sub_431.txt.fi
