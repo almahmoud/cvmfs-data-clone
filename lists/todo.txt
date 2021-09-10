@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.eh
 5gb/byhand/sub_431.txt.id
 5gb/byhand/sub_549.txt.cf
 5gb/byhand/sub_370.txt.fj
