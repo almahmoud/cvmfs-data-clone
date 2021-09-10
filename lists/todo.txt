@@ -1,4 +1,3 @@
-5gb/byhand/sub_370.txt.gi
 5gb/byhand/sub_359.txt.ag
 5gb/byhand/sub_431.txt.gf
 5gb/byhand/sub_535.txt.ca
