@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.kg
 5gb/byhand/sub_535.txt.ev
 5gb/byhand/sub_535.txt.fb
 5gb/byhand/sub_431.txt.aq
