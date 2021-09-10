@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.er
 5gb/byhand/sub_549.txt.ez
 5gb/byhand/sub_431.txt.db
 5gb/byhand/sub_383.txt.dn
