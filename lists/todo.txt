@@ -1,4 +1,3 @@
-5gb/byhand/sub_356.txt.bs
 5gb/byhand/sub_326.txt.be
 5gb/byhand/sub_431.txt.is
 5gb/byhand/sub_534.txt.fa
