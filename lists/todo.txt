@@ -1,4 +1,3 @@
-5gb/byhand/sub_381.txt.ac
 5gb/byhand/sub_535.txt.fc
 5gb/byhand/sub_356.txt.br
 5gb/byhand/sub_381.txt.cj
