@@ -1,4 +1,3 @@
-5gb/byhand/sub_534.txt.al
 5gb/byhand/sub_548.txt.ce
 5gb/byhand/sub_548.txt.gc
 5gb/byhand/sub_548.txt.bz
