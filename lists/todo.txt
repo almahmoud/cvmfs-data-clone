@@ -1,4 +1,3 @@
-5gb/byhand/sub_535.txt.hw
 5gb/byhand/sub_431.txt.ja
 5gb/byhand/sub_534.txt.fw
 5gb/byhand/sub_453.txt.bd
