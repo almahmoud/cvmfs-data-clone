@@ -1,4 +1,3 @@
-5gb/byhand/sub_381.txt.ae
 5gb/byhand/sub_357.txt.bh
 5gb/byhand/sub_356.txt.bz
 5gb/byhand/sub_368.txt.ao
