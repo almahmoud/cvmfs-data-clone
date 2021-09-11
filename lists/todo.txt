@@ -1,4 +1,3 @@
-5gb/byhand/sub_549.txt.ge
 5gb/byhand/sub_431.txt.ap
 5gb/byhand/sub_431.txt.gz
 5gb/byhand/sub_431.txt.cu
