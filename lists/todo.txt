@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.go
 5gb/byhand/sub_549.txt.ao
 5gb/byhand/sub_431.txt.fm
 5gb/byhand/sub_535.txt.bz
