@@ -1,4 +1,3 @@
-5gb/byhand/sub_380.txt.ag
 5gb/byhand/sub_356.txt.at
 5gb/byhand/sub_549.txt.gz
 5gb/byhand/sub_368.txt.cm
