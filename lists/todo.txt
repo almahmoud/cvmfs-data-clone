@@ -1,4 +1,3 @@
-5gb/byhand/sub_548.txt.bz
 5gb/byhand/sub_431.txt.cs
 5gb/byhand/sub_431.txt.ez
 5gb/byhand/sub_368.txt.cw
