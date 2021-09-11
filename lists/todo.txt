@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.al
 5gb/byhand/sub_988.txt.db
 5gb/byhand/sub_431.txt.kt
 5gb/byhand/sub_431.txt.hz
