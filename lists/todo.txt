@@ -1,4 +1,3 @@
-5gb/byhand/sub_431.txt.lq
 5gb/byhand/sub_535.txt.fv
 5gb/byhand/sub_535.txt.dp
 5gb/byhand/sub_548.txt.cu
