@@ -1,4 +1,3 @@
-5gb/byhand/sub_988.txt.cs
 5gb/byhand/sub_988.txt.az
 5gb/byhand/sub_549.txt.am
 5gb/byhand/sub_436.txt.aa
