@@ -1,4 +1,3 @@
-5gb/byhand/sub_875.txt.ah
 5gb/byhand/sub_328.txt.bw
 5gb/byhand/sub_537.txt.ac
 5gb/byhand/sub_537.txt.ap
