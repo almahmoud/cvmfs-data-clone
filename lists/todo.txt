@@ -1,4 +1,3 @@
-5gb/byhand/sub_368.txt.ay
 5gb/byhand/sub_548.txt.cp
 5gb/byhand/sub_431.txt.lo
 5gb/byhand/sub_548.txt.bo
