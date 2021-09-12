@@ -1,4 +1,3 @@
-5gb/byhand/sub_380.txt.az
 5gb/byhand/sub_249.txt.aa
 5gb/byhand/sub_370.txt.eu
 5gb/byhand/sub_370.txt.cx
